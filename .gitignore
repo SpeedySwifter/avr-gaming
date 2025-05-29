@@ -1,0 +1,15 @@
+# Ignoriere node_modules (immer!)
+node_modules/
+
+# Build-Ordner
+.next/
+out/
+
+# Umgebungsdateien
+.env*
+.DS_Store
+
+# Logfiles
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
