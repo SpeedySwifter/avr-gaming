@@ -44,18 +44,38 @@ export default function HeaderDecent() {
 
       {/* Mobile Menü */}
       {menuOpen && (
-        <nav className="md:hidden bg-black text-white text-center py-4 space-y-4">
-          <Link href="/teams" onClick={() => setMenuOpen(false)}>Teams</Link>
-          <Link href="/news" onClick={() => setMenuOpen(false)}>News</Link>
-          <Link href="/awards" onClick={() => setMenuOpen(false)}>Awards</Link>
-          <Link href="/sponsoren" onClick={() => setMenuOpen(false)}>Sponsoren</Link>
-          <Link
-            href="/support"
-            onClick={() => setMenuOpen(false)}
-            className="block bg-avrblue text-black px-4 py-2 rounded w-fit mx-auto"
-          >
-            Support
-          </Link>
+        <nav className="md:hidden bg-black text-white px-6 pb-6 pt-4">
+          <ul className="flex flex-col items-center space-y-4 text-base font-medium">
+            <li>
+              <Link href="/teams" onClick={() => setMenuOpen(false)} className="hover:text-avrblue transition">
+                Teams
+              </Link>
+            </li>
+            <li>
+              <Link href="/news" onClick={() => setMenuOpen(false)} className="hover:text-avrblue transition">
+                News
+              </Link>
+            </li>
+            <li>
+              <Link href="/awards" onClick={() => setMenuOpen(false)} className="hover:text-avrblue transition">
+                Awards
+              </Link>
+            </li>
+            <li>
+              <Link href="/sponsoren" onClick={() => setMenuOpen(false)} className="hover:text-avrblue transition">
+                Sponsoren
+              </Link>
+            </li>
+            <li>
+              <Link
+                href="/support"
+                onClick={() => setMenuOpen(false)}
+                className="mt-2 inline-block bg-avrblue text-black px-6 py-2 rounded hover:bg-white hover:text-avrblue transition"
+              >
+                Support
+              </Link>
+            </li>
+          </ul>
         </nav>
       )}
     </header>
