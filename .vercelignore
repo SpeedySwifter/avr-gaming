@@ -1,0 +1,12 @@
+# macOS-Dateien
+.DS_Store
+
+# Doku/Dev-Dateien
+README.md
+*.psd
+*.sketch
+
+# Lokale Abhängigkeiten (werden beim Deploy eh installiert)
+node_modules/
+.next/
+out/

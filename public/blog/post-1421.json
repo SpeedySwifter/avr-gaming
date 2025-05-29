@@ -1,0 +1,392 @@
+{
+  "id": 1421,
+  "date": "2023-04-12T15:19:02",
+  "date_gmt": "2023-04-12T13:19:02",
+  "guid": {
+    "rendered": "https://avr-gaming.de/?p=1421"
+  },
+  "modified": "2023-04-12T15:19:02",
+  "modified_gmt": "2023-04-12T13:19:02",
+  "slug": "gold-in-der-desbl",
+  "status": "publish",
+  "type": "post",
+  "link": "https://avr-gaming.de/gold-in-der-desbl/",
+  "title": {
+    "rendered": "Gold in der DeSBL"
+  },
+  "content": {
+    "rendered": "\n<p>AVR.Rainbow konnte sich im \"Oster Community Cup by Team EOS\" in der Deutschen eSport Bundesliga gegen 27 andere Teams durchsetzen und sich dabei den Sieg und 175 Euro Preisgeld sichern. Das Crossplay-Turnier mit Teilnehmern von Xbox und Playstation fand comp-untypisch auf ungewöhnlichen Maps im Secure-Area-Modus statt.</p>\n\n\n\n<p>Zum Turnier:<br><a href=\"https://desbl.de/index.php?public/&amp;site=cups&amp;cid=1241\">https://desbl.de/index.php?public/&amp;site=cups&amp;cid=1241</a></p>\n\n\n\n<p>AVR LineUp:<br>- [AVR] SteaLTH Se7en<br>- [AVR] qzVeroxity<br>- [AVR] Keznc<br>- [AVR] Human<br>- [AVR] Jzssy<br>- [AVR] Kyzebio<br>- [AVR] xNighty23</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>AVR.Rainbow konnte sich im \"Oster Community Cup by Team EOS\" in der Deutschen eSport Bundesliga gegen 27 andere Teams durchsetzen und sich dabei den Sieg und 175 Euro Preisgeld sichern. Das Crossplay-Turnier mit Teilnehmern von Xbox und Playstation fand comp-untypisch auf ungewöhnlichen Maps im Secure-Area-Modus statt. Zum Turnier:https://desbl.de/index.php?public/&amp;site=cups&amp;cid=1241 AVR LineUp:- [AVR] SteaLTH Se7en- [AVR] qzVeroxity- [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 3,
+  "featured_media": 1422,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    14
+  ],
+  "tags": [],
+  "class_list": [
+    "post-1421",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-avr-rainbowsix"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1421",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/users/3"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=1421"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1421/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 1423,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1421/revisions/1423"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media/1422"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media?parent=1421"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/categories?post=1421"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/tags?post=1421"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  },
+  "_embedded": {
+    "author": [
+      {
+        "id": 3,
+        "name": "AVR-NEWS",
+        "url": "",
+        "description": "",
+        "link": "https://avr-gaming.de/author/avr-news/",
+        "slug": "avr-news",
+        "avatar_urls": {
+          "24": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=24&d=mm&r=g",
+          "48": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=48&d=mm&r=g",
+          "96": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=96&d=mm&r=g"
+        },
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/3",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "id": 1422,
+        "date": "2023-04-12T15:18:36",
+        "slug": "ostercupwin",
+        "type": "attachment",
+        "link": "https://avr-gaming.de/gold-in-der-desbl/ostercupwin/",
+        "title": {
+          "rendered": "ostercupwin"
+        },
+        "author": 3,
+        "featured_media": 0,
+        "smush": {
+          "stats": {
+            "percent": 76.30222098514481,
+            "bytes": 2280768,
+            "size_before": 2989124,
+            "size_after": 708356,
+            "time": 7.91,
+            "api_version": "1.0",
+            "lossy": true,
+            "keep_exif": 0
+          },
+          "sizes": {
+            "medium": {
+              "percent": 78.77,
+              "bytes": 99189,
+              "size_before": 125929,
+              "size_after": 26740,
+              "time": 0.48
+            },
+            "large": {
+              "percent": 82.28,
+              "bytes": 936204,
+              "size_before": 1137758,
+              "size_after": 201554,
+              "time": 1.45
+            },
+            "thumbnail": {
+              "percent": 76.11,
+              "bytes": 29164,
+              "size_before": 38319,
+              "size_after": 9155,
+              "time": 0.05
+            },
+            "medium_large": {
+              "percent": 81.95,
+              "bytes": 564978,
+              "size_before": 689377,
+              "size_after": 124399,
+              "time": 0.97
+            },
+            "acf-gallery": {
+              "percent": 0,
+              "bytes": 0,
+              "size_before": 26740,
+              "size_after": 26740,
+              "time": 0.13
+            },
+            "full": {
+              "percent": 67.07,
+              "bytes": 651233,
+              "size_before": 971001,
+              "size_after": 319768,
+              "time": 4.83
+            }
+          },
+          "webp_flag": "2023/04/ostercupwin-300x300.png.webp"
+        },
+        "caption": {
+          "rendered": ""
+        },
+        "alt_text": "",
+        "media_type": "image",
+        "mime_type": "image/png",
+        "media_details": {
+          "width": 1200,
+          "height": 1200,
+          "file": "2023/04/ostercupwin.png",
+          "filesize": "971001",
+          "sizes": {
+            "medium": {
+              "file": "ostercupwin-300x300.png",
+              "width": 300,
+              "height": 300,
+              "filesize": "125929",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2023/04/ostercupwin-300x300.png"
+            },
+            "large": {
+              "file": "ostercupwin-1024x1024.png",
+              "width": 1024,
+              "height": 1024,
+              "filesize": "1137758",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2023/04/ostercupwin-1024x1024.png"
+            },
+            "thumbnail": {
+              "file": "ostercupwin-150x150.png",
+              "width": 150,
+              "height": 150,
+              "filesize": "38319",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2023/04/ostercupwin-150x150.png"
+            },
+            "medium_large": {
+              "file": "ostercupwin-768x768.png",
+              "width": 768,
+              "height": 768,
+              "filesize": "689377",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2023/04/ostercupwin-768x768.png"
+            },
+            "acf-gallery": {
+              "file": "ostercupwin-300x300.png",
+              "width": 300,
+              "height": 300,
+              "filesize": "125929",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2023/04/ostercupwin-300x300.png"
+            },
+            "full": {
+              "file": "ostercupwin.png",
+              "width": 1200,
+              "height": 1200,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2023/04/ostercupwin.png"
+            }
+          },
+          "image_meta": {
+            "aperture": "0",
+            "credit": "",
+            "camera": "",
+            "caption": "",
+            "created_timestamp": "0",
+            "copyright": "",
+            "focal_length": "0",
+            "iso": "0",
+            "shutter_speed": "0",
+            "title": "",
+            "orientation": "0"
+          }
+        },
+        "source_url": "https://avr-gaming.de/wp-content/uploads/2023/04/ostercupwin.png",
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media/1422",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media"
+            }
+          ],
+          "about": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/types/attachment"
+            }
+          ],
+          "author": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/3"
+            }
+          ],
+          "replies": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=1422"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:term": [
+      [
+        {
+          "id": 14,
+          "link": "https://avr-gaming.de/category/avr-news/avr-rainbowsix/",
+          "name": "AVR.RainbowSix",
+          "slug": "avr-rainbowsix",
+          "taxonomy": "category",
+          "_links": {
+            "self": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories/14",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/taxonomies/category"
+              }
+            ],
+            "up": [
+              {
+                "embeddable": true,
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories/8"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/posts?categories=14"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        }
+      ],
+      []
+    ]
+  },
+  "localImage": "/blog/images/post-1421.png"
+}

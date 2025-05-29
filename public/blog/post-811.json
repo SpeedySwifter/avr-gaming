@@ -1,0 +1,375 @@
+{
+  "id": 811,
+  "date": "2021-03-08T03:24:00",
+  "date_gmt": "2021-03-08T02:24:00",
+  "guid": {
+    "rendered": "https://avr-gaming.de/?p=811"
+  },
+  "modified": "2021-04-09T23:49:23",
+  "modified_gmt": "2021-04-09T21:49:23",
+  "slug": "internationalen-frauentag",
+  "status": "publish",
+  "type": "post",
+  "link": "https://avr-gaming.de/internationalen-frauentag/",
+  "title": {
+    "rendered": "Internationalen Frauentag"
+  },
+  "content": {
+    "rendered": "\n<p>... leider gibt es diese Grenzen aber noch zu oft. Frauen* sind im eSport stark unterrepräsentiert und jede Gamerin kennt mindestens eine Situation in der sie mit Anfeindungen und Sexismus, besonders hinter der Anonymität des Internets, konfrontiert wurde. Auch viele unserer Spielerinnen können davon ein Lied singen, denn das Problem ist flächendeckend. Derartige Anfeindungen sind mit unserer Vereinsmitgliedschaft nicht vereinbar: Wir positionieren uns für Vielfalt in Sachen Gaming und eSport. Daher gilt es sowohl intern als auch extern gegen jegliche Probleme in diesem Bereich vorzugehen.</p>\n\n\n\n<p>Das Gute: Der eSport bietet Chancen, die kaum ein anderer Sport bietet. Es gibt keine seriösen Belege für Leistungsunterschiede zwischen Männern und Frauen, wodurch letztlich auch Argumente für eine Geschlechtertrennung bei eSport-Veranstaltungen dünn angesiedelt sind und haltlos bleiben. Lasst uns die Chancen, die wir in unserer Szene haben gemeinsam nutzen - schaffen wir eine Umgebung, die nicht nach Geschlecht unterscheidet.</p>\n\n\n\n<p>In diesem Sinne: Allen Gamerinnen einen angenehmen internationalen Frauentag&nbsp;<img decoding=\"async\" height=\"16\" width=\"16\" alt=\"💪\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tb/2/16/1f4aa.png\"></p>\n\n\n\n<p><a href=\"https://www.facebook.com/hashtag/avr?__eep__=6&amp;__tn__=*NK*F\">#AVR</a><a href=\"https://www.facebook.com/hashtag/avrarmy?__eep__=6&amp;__tn__=*NK*F\">#avrarmy</a><a href=\"https://www.facebook.com/hashtag/diversity?__eep__=6&amp;__tn__=*NK*F\">#diversity</a><a href=\"https://www.facebook.com/hashtag/internationalwomensday2021?__eep__=6&amp;__tn__=*NK*F\">#internationalwomensday2021</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>... leider gibt es diese Grenzen aber noch zu oft. Frauen* sind im eSport stark unterrepräsentiert und jede Gamerin kennt mindestens eine Situation in der sie mit Anfeindungen und Sexismus, besonders hinter der Anonymität des Internets, konfrontiert wurde. Auch viele unserer Spielerinnen können davon ein Lied singen, denn das Problem ist flächendeckend. Derartige Anfeindungen sind mit unserer Vereinsmitgliedschaft nicht vereinbar: Wir positionieren uns für Vielfalt in Sachen Gaming und eSport. Daher gilt es sowohl intern als auch extern gegen jegliche Probleme in diesem Bereich vorzugehen.</p>\n",
+    "protected": false
+  },
+  "author": 3,
+  "featured_media": 813,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    8
+  ],
+  "tags": [],
+  "class_list": [
+    "post-811",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-avr-news"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/811",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/users/3"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=811"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/811/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media/813"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media?parent=811"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/categories?post=811"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/tags?post=811"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  },
+  "_embedded": {
+    "author": [
+      {
+        "id": 3,
+        "name": "AVR-NEWS",
+        "url": "",
+        "description": "",
+        "link": "https://avr-gaming.de/author/avr-news/",
+        "slug": "avr-news",
+        "avatar_urls": {
+          "24": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=24&d=mm&r=g",
+          "48": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=48&d=mm&r=g",
+          "96": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=96&d=mm&r=g"
+        },
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/3",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "id": 813,
+        "date": "2021-03-27T03:26:12",
+        "slug": "158325732_3740129209403988_5769116885241992035_o",
+        "type": "attachment",
+        "link": "https://avr-gaming.de/internationalen-frauentag/158325732_3740129209403988_5769116885241992035_o/",
+        "title": {
+          "rendered": "158325732_3740129209403988_5769116885241992035_o"
+        },
+        "author": 1,
+        "featured_media": 0,
+        "smush": {
+          "stats": {
+            "percent": 25.0067893221123,
+            "bytes": 167588,
+            "size_before": 670170,
+            "size_after": 502582,
+            "time": 5.97,
+            "api_version": "1.0",
+            "lossy": false,
+            "keep_exif": 0
+          },
+          "sizes": {
+            "medium": {
+              "percent": 15.29,
+              "bytes": 6517,
+              "size_before": 42621,
+              "size_after": 36104,
+              "time": 0.23
+            },
+            "large": {
+              "percent": 7.62,
+              "bytes": 15852,
+              "size_before": 207967,
+              "size_after": 192115,
+              "time": 2.78
+            },
+            "thumbnail": {
+              "percent": 16.27,
+              "bytes": 3094,
+              "size_before": 19022,
+              "size_after": 15928,
+              "time": 0.06
+            },
+            "medium_large": {
+              "percent": 10.79,
+              "bytes": 14970,
+              "size_before": 138779,
+              "size_after": 123809,
+              "time": 2.3
+            },
+            "acf-gallery": {
+              "percent": 0,
+              "bytes": 0,
+              "size_before": 36104,
+              "size_after": 36104,
+              "time": 0.44
+            },
+            "full": {
+              "percent": 56.3,
+              "bytes": 127155,
+              "size_before": 225677,
+              "size_after": 98522,
+              "time": 0.16
+            }
+          },
+          "webp_flag": "2021/03/158325732_3740129209403988_5769116885241992035_o-300x300.png.webp"
+        },
+        "caption": {
+          "rendered": ""
+        },
+        "alt_text": "",
+        "media_type": "image",
+        "mime_type": "image/jpeg",
+        "media_details": {
+          "width": 1200,
+          "height": 1200,
+          "file": "2021/03/158325732_3740129209403988_5769116885241992035_o.jpg",
+          "sizes": {
+            "medium": {
+              "file": "158325732_3740129209403988_5769116885241992035_o-300x300.png",
+              "width": 300,
+              "height": 300,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/158325732_3740129209403988_5769116885241992035_o-300x300.png"
+            },
+            "large": {
+              "file": "158325732_3740129209403988_5769116885241992035_o-1024x1024.png",
+              "width": 1024,
+              "height": 1024,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/158325732_3740129209403988_5769116885241992035_o-1024x1024.png"
+            },
+            "thumbnail": {
+              "file": "158325732_3740129209403988_5769116885241992035_o-150x150.png",
+              "width": 150,
+              "height": 150,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/158325732_3740129209403988_5769116885241992035_o-150x150.png"
+            },
+            "medium_large": {
+              "file": "158325732_3740129209403988_5769116885241992035_o-768x768.png",
+              "width": 768,
+              "height": 768,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/158325732_3740129209403988_5769116885241992035_o-768x768.png"
+            },
+            "acf-gallery": {
+              "file": "158325732_3740129209403988_5769116885241992035_o-300x300.png",
+              "width": 300,
+              "height": 300,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/158325732_3740129209403988_5769116885241992035_o-300x300.png"
+            },
+            "full": {
+              "file": "158325732_3740129209403988_5769116885241992035_o.jpg",
+              "width": 1200,
+              "height": 1200,
+              "mime_type": "image/jpeg",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/158325732_3740129209403988_5769116885241992035_o.jpg"
+            }
+          },
+          "image_meta": {
+            "aperture": "0",
+            "credit": "",
+            "camera": "",
+            "caption": "",
+            "created_timestamp": "0",
+            "copyright": "",
+            "focal_length": "0",
+            "iso": "0",
+            "shutter_speed": "0",
+            "title": "",
+            "orientation": "0",
+            "keywords": []
+          }
+        },
+        "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/158325732_3740129209403988_5769116885241992035_o.jpg",
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media/813",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media"
+            }
+          ],
+          "about": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/types/attachment"
+            }
+          ],
+          "author": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/1"
+            }
+          ],
+          "replies": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=813"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:term": [
+      [
+        {
+          "id": 8,
+          "link": "https://avr-gaming.de/category/avr-news/",
+          "name": "AVR-NEWS",
+          "slug": "avr-news",
+          "taxonomy": "category",
+          "_links": {
+            "self": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories/8",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/taxonomies/category"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/posts?categories=8"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        }
+      ],
+      []
+    ]
+  },
+  "localImage": "/blog/images/post-811.jpg"
+}

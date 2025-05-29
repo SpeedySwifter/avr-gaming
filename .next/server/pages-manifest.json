@@ -1,0 +1,10 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/awards": "pages/awards.js",
+  "/teams": "pages/teams.js",
+  "/about": "pages/about.js",
+  "/news/page/[page]": "pages/news/page/[page].js",
+  "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js"
+}

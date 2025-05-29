@@ -1,0 +1,424 @@
+{
+  "id": 824,
+  "date": "2021-02-27T03:40:00",
+  "date_gmt": "2021-02-27T02:40:00",
+  "guid": {
+    "rendered": "https://avr-gaming.de/?p=824"
+  },
+  "modified": "2021-04-09T23:54:35",
+  "modified_gmt": "2021-04-09T21:54:35",
+  "slug": "rainbowsix-ebattle-spieltag-13",
+  "status": "publish",
+  "type": "post",
+  "link": "https://avr-gaming.de/rainbowsix-ebattle-spieltag-13/",
+  "title": {
+    "rendered": "#RainbowSix: ebattle - Spieltag 13"
+  },
+  "content": {
+    "rendered": "\n<p><a href=\"https://www.facebook.com/hashtag/avr?__eep__=6&amp;__tn__=*NK*F\">#avr</a><a href=\"https://www.facebook.com/hashtag/einteam?__eep__=6&amp;__tn__=*NK*F\">#einteam</a><a href=\"https://www.facebook.com/hashtag/avrarmy?__eep__=6&amp;__tn__=*NK*F\">#avrarmy</a><a href=\"https://www.facebook.com/hashtag/flyhigh?__eep__=6&amp;__tn__=*NK*F\">#flyhigh</a></p>\n\n\n\n<p>Related Leagues:<br><a class=\"rank-math-link\" href=\"https://www.facebook.com/ebattlegg/?__tn__=kK*F\">Ebattlegg<br>Deutsche eSport Bundesliga</a><br>________________________<br>AVengeR Gaming e.V. wird unterstützt von<br><a href=\"https://www.facebook.com/gainmagazin/?__tn__=kK*F\">GAIN - Das unabhängige Magazin für Spielekultur</a><br><a href=\"https://www.facebook.com/lootchest.de/?__tn__=kK*F\">Lootchest</a><br><a href=\"https://www.facebook.com/overpoweredeurope/?__tn__=kK*F\">Overpowered-Europe</a><br><a href=\"https://www.facebook.com/beRARE.MEDIA/?__tn__=kK*F\">Berare.media</a><br><a href=\"https://www.facebook.com/GameTown.host/?__tn__=kK*F\">GameTown.host</a><br><a href=\"https://www.facebook.com/owayo/?__tn__=kK*F\">owayo</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Related League:<br />\nEbattlegg<br />\nDeutsche eSport Bundesliga</p>\n",
+    "protected": false
+  },
+  "author": 3,
+  "featured_media": 825,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    8,
+    14
+  ],
+  "tags": [],
+  "class_list": [
+    "post-824",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-avr-news",
+    "category-avr-rainbowsix"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/824",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/users/3"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=824"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/824/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media/825"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media?parent=824"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/categories?post=824"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/tags?post=824"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  },
+  "_embedded": {
+    "author": [
+      {
+        "id": 3,
+        "name": "AVR-NEWS",
+        "url": "",
+        "description": "",
+        "link": "https://avr-gaming.de/author/avr-news/",
+        "slug": "avr-news",
+        "avatar_urls": {
+          "24": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=24&d=mm&r=g",
+          "48": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=48&d=mm&r=g",
+          "96": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=96&d=mm&r=g"
+        },
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/3",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "id": 825,
+        "date": "2021-03-27T03:41:06",
+        "slug": "155373209_3716386751778234_3593260138364326363_o",
+        "type": "attachment",
+        "link": "https://avr-gaming.de/rainbowsix-ebattle-spieltag-13/155373209_3716386751778234_3593260138364326363_o/",
+        "title": {
+          "rendered": "155373209_3716386751778234_3593260138364326363_o"
+        },
+        "author": 1,
+        "featured_media": 0,
+        "smush": {
+          "stats": {
+            "percent": 31.113951668888912,
+            "bytes": 564712,
+            "size_before": 1814980,
+            "size_after": 1250268,
+            "time": 20.5,
+            "api_version": "1.0",
+            "lossy": false,
+            "keep_exif": 0
+          },
+          "sizes": {
+            "medium": {
+              "percent": 13.42,
+              "bytes": 12722,
+              "size_before": 94791,
+              "size_after": 82069,
+              "time": 0.21
+            },
+            "large": {
+              "percent": 10.64,
+              "bytes": 62650,
+              "size_before": 588641,
+              "size_after": 525991,
+              "time": 13.12
+            },
+            "thumbnail": {
+              "percent": 7.21,
+              "bytes": 2147,
+              "size_before": 29787,
+              "size_after": 27640,
+              "time": 0.04
+            },
+            "medium_large": {
+              "percent": 13.68,
+              "bytes": 54000,
+              "size_before": 394767,
+              "size_after": 340767,
+              "time": 6.9
+            },
+            "acf-gallery": {
+              "percent": 0,
+              "bytes": 0,
+              "size_before": 82069,
+              "size_after": 82069,
+              "time": 0.16
+            },
+            "full": {
+              "percent": 69.3,
+              "bytes": 433193,
+              "size_before": 624925,
+              "size_after": 191732,
+              "time": 0.07
+            }
+          },
+          "webp_flag": "2021/03/155373209_3716386751778234_3593260138364326363_o-300x300.png.webp"
+        },
+        "caption": {
+          "rendered": ""
+        },
+        "alt_text": "",
+        "media_type": "image",
+        "mime_type": "image/jpeg",
+        "media_details": {
+          "width": 1200,
+          "height": 1200,
+          "file": "2021/03/155373209_3716386751778234_3593260138364326363_o.jpg",
+          "sizes": {
+            "medium": {
+              "file": "155373209_3716386751778234_3593260138364326363_o-300x300.png",
+              "width": 300,
+              "height": 300,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/155373209_3716386751778234_3593260138364326363_o-300x300.png"
+            },
+            "large": {
+              "file": "155373209_3716386751778234_3593260138364326363_o-1024x1024.png",
+              "width": 1024,
+              "height": 1024,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/155373209_3716386751778234_3593260138364326363_o-1024x1024.png"
+            },
+            "thumbnail": {
+              "file": "155373209_3716386751778234_3593260138364326363_o-150x150.png",
+              "width": 150,
+              "height": 150,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/155373209_3716386751778234_3593260138364326363_o-150x150.png"
+            },
+            "medium_large": {
+              "file": "155373209_3716386751778234_3593260138364326363_o-768x768.png",
+              "width": 768,
+              "height": 768,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/155373209_3716386751778234_3593260138364326363_o-768x768.png"
+            },
+            "acf-gallery": {
+              "file": "155373209_3716386751778234_3593260138364326363_o-300x300.png",
+              "width": 300,
+              "height": 300,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/155373209_3716386751778234_3593260138364326363_o-300x300.png"
+            },
+            "full": {
+              "file": "155373209_3716386751778234_3593260138364326363_o.jpg",
+              "width": 1200,
+              "height": 1200,
+              "mime_type": "image/jpeg",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/155373209_3716386751778234_3593260138364326363_o.jpg"
+            }
+          },
+          "image_meta": {
+            "aperture": "0",
+            "credit": "",
+            "camera": "",
+            "caption": "",
+            "created_timestamp": "0",
+            "copyright": "",
+            "focal_length": "0",
+            "iso": "0",
+            "shutter_speed": "0",
+            "title": "",
+            "orientation": "0",
+            "keywords": []
+          }
+        },
+        "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/155373209_3716386751778234_3593260138364326363_o.jpg",
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media/825",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media"
+            }
+          ],
+          "about": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/types/attachment"
+            }
+          ],
+          "author": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/1"
+            }
+          ],
+          "replies": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=825"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:term": [
+      [
+        {
+          "id": 8,
+          "link": "https://avr-gaming.de/category/avr-news/",
+          "name": "AVR-NEWS",
+          "slug": "avr-news",
+          "taxonomy": "category",
+          "_links": {
+            "self": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories/8",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/taxonomies/category"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/posts?categories=8"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        },
+        {
+          "id": 14,
+          "link": "https://avr-gaming.de/category/avr-news/avr-rainbowsix/",
+          "name": "AVR.RainbowSix",
+          "slug": "avr-rainbowsix",
+          "taxonomy": "category",
+          "_links": {
+            "self": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories/14",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/taxonomies/category"
+              }
+            ],
+            "up": [
+              {
+                "embeddable": true,
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories/8"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/posts?categories=14"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        }
+      ],
+      []
+    ]
+  },
+  "localImage": "/blog/images/post-824.jpg"
+}

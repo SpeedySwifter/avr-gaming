@@ -1,0 +1,386 @@
+{
+  "id": 1432,
+  "date": "2023-07-16T12:13:19",
+  "date_gmt": "2023-07-16T10:13:19",
+  "guid": {
+    "rendered": "https://avr-gaming.de/?p=1432"
+  },
+  "modified": "2023-07-16T12:13:20",
+  "modified_gmt": "2023-07-16T10:13:20",
+  "slug": "gain-ein-persoenlicher-nachruf",
+  "status": "publish",
+  "type": "post",
+  "link": "https://avr-gaming.de/gain-ein-persoenlicher-nachruf/",
+  "title": {
+    "rendered": "\"GAIN\" - Ein persönlicher Nachruf"
+  },
+  "content": {
+    "rendered": "\n<p>2015. Die Xbox One ist seit 2 Jahren draußen und ein junges AVR, sechs Jahre alt, bereitet sich auf den Release von Battlefield Hardline vor.</p>\n\n\n\n<p>Bei einer naiven Google-Suche nach \"eSport-Partnern\" für unser kleines Gaming-Projekt stieß ich auf die Website von GAIN - Play Meet Think, auf der konkret eSport-Teams für ein Sponsoring gesucht wurden. Mit 200 Followern auf Facebook, einem einzigen Team in der Konsolen-Nische und einer schwammigen Vorstellung über die Ausgestaltung einer solchen Partnerschaft machte ich mir keine großen Hoffnungen auf Erfolg, schrieb aber dennoch in höchster Förmlichkeit einen kurzen Vorstellungstext an die angegebene Mailadresse.</p>\n\n\n\n<p>Schnell bekam ich eine überraschend positive Antwort von GAIN-Inhaber Michal Hejzer, der offenbar wider aller Erwartungen Interesse an unserem Projekt zeigte. In den Folgewochen wurden sein - heute nicht mehr bestehender - Videogames-Shop \"VISPON\" und die GAIN, damals wohl eher noch als Herzensprojekt nebenbei geplant, die ersten richtigen Partner von AVR. Ich kann mich heute noch gut daran erinnern, wie ich mit Stolz die Sponsoringvereinbarung unterschrieb und Michal uns auf der Gamescom 2015 unsere ersten Clanshirts überreichte, die er privat und mit viel Liebe zum Detail selbst gestaltete und bedruckte - heute noch stoffgewordenes Stück AVR-Vereinsgeschichte.</p>\n\n\n\n<p>Mein persönliches Highlight unserer Partnerschaft war jedoch der Messeauftritt auf der EGX in Berlin 2019, bei dem wir die GAIN unterstützten und weitere Akteur*innen der Redaktion, etwa einen hochambitionierten Giacomo Maihofer, kennenlernen durften. Trotz des permanenten Lärms vom benachbarten Stand eines bekannten rotbulligen Energydrink-Herstellers, der mit Adrian Guggemos eine echte Motocross-Szenegröße inflationär über das ganze Messewochenende präsentierte, entstanden hier beflügelnde Gespräche.</p>\n\n\n\n<p>Zeitsprung 2023. Battlefield Hardline ist schon lange Geschichte - im Nachhinein hielt sich der Titel gerade einmal gute acht Monate bevor in der Versenkung des ESL-eSport-Archivs versank. Niemand vermisst den Ableger der einst so erfolgreichen aber heute weitgehend belächelten EA-Spielereihe.</p>\n\n\n\n<p>Allerdings werden wir die GAIN vermissen, die vor wenigen Tagen ihre Pforten schloss. Die GAIN hat viel erreicht: Prominente Abonennt*innen, prominente Redakteur*innen - hier sei stellvertretend für viele Nora Beyer genannt -, hochwertige Gastbeiträge und Interviews mit Branchen-Ikonen sowie nicht zuletzt ein preisgekröntes Design. Hier wurde Gaming-Journalismus geboten, der in beispielhafter Weise unterhaltsam und fundiert über den Standard-Kanon aus Testberichten und Previews anderer Magazine hinausging und bewies, das die Geschichte der Videogames heute zurecht in das Prädikat \"Kulturgut\" mündet.</p>\n\n\n\n<p>Nun ist die GAIN als eines der meiner Meinung nach besten Print-Fachmagazinen selbst Teil dieser Historie geworden und im Namen unseren kleinen Vereins bedanke ich mich bei der Redaktion, dass wir Teil der GAIN-Geschichte sein durften.</p>\n\n\n\n<p>Ich werde nun nochmal in ein paar alten Ausgaben blättern.</p>\n\n\n\n<p><em>Kevin Scheibel, Vorstandsvorsitzender AVengeR Gaming e.V.</em></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>2015. Die Xbox One ist seit 2 Jahren draußen und ein junges AVR, sechs Jahre alt, bereitet sich auf den Release von Battlefield Hardline vor. Bei einer naiven Google-Suche nach \"eSport-Partnern\" für unser kleines Gaming-Projekt stieß ich auf die Website von GAIN - Play Meet Think, auf der konkret eSport-Teams für ein Sponsoring gesucht wurden. [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 3,
+  "featured_media": 1433,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    8
+  ],
+  "tags": [],
+  "class_list": [
+    "post-1432",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-avr-news"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1432",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/users/3"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=1432"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1432/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 1434,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1432/revisions/1434"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media/1433"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media?parent=1432"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/categories?post=1432"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/tags?post=1432"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  },
+  "_embedded": {
+    "author": [
+      {
+        "id": 3,
+        "name": "AVR-NEWS",
+        "url": "",
+        "description": "",
+        "link": "https://avr-gaming.de/author/avr-news/",
+        "slug": "avr-news",
+        "avatar_urls": {
+          "24": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=24&d=mm&r=g",
+          "48": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=48&d=mm&r=g",
+          "96": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=96&d=mm&r=g"
+        },
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/3",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "id": 1433,
+        "date": "2023-07-16T12:13:00",
+        "slug": "gain",
+        "type": "attachment",
+        "link": "https://avr-gaming.de/gain-ein-persoenlicher-nachruf/gain/",
+        "title": {
+          "rendered": "gain"
+        },
+        "author": 3,
+        "featured_media": 0,
+        "smush": {
+          "stats": {
+            "percent": 69.19713144245623,
+            "bytes": 2425192,
+            "size_before": 3504758,
+            "size_after": 1079566,
+            "time": 5.33,
+            "api_version": "1.0",
+            "lossy": 1,
+            "keep_exif": 0
+          },
+          "sizes": {
+            "medium": {
+              "percent": 71.55,
+              "bytes": 103455,
+              "size_before": 144597,
+              "size_after": 41142,
+              "time": 0.21
+            },
+            "large": {
+              "percent": 70.97,
+              "bytes": 827740,
+              "size_before": 1166268,
+              "size_after": 338528,
+              "time": 1.5
+            },
+            "thumbnail": {
+              "percent": 67.76,
+              "bytes": 29056,
+              "size_before": 42878,
+              "size_after": 13822,
+              "time": 0.08
+            },
+            "medium_large": {
+              "percent": 71.47,
+              "bytes": 520960,
+              "size_before": 728956,
+              "size_after": 207996,
+              "time": 1.51
+            },
+            "acf-gallery": {
+              "percent": 0,
+              "bytes": 0,
+              "size_before": 41142,
+              "size_after": 41142,
+              "time": 0.05
+            },
+            "full": {
+              "percent": 68.36,
+              "bytes": 943981,
+              "size_before": 1380917,
+              "size_after": 436936,
+              "time": 1.98
+            }
+          },
+          "webp_flag": "2023/07/gain-300x300.png.webp"
+        },
+        "caption": {
+          "rendered": ""
+        },
+        "alt_text": "",
+        "media_type": "image",
+        "mime_type": "image/png",
+        "media_details": {
+          "width": 1200,
+          "height": 1200,
+          "file": "2023/07/gain.png",
+          "filesize": "1380917",
+          "sizes": {
+            "medium": {
+              "file": "gain-300x300.png",
+              "width": 300,
+              "height": 300,
+              "filesize": "144597",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2023/07/gain-300x300.png"
+            },
+            "large": {
+              "file": "gain-1024x1024.png",
+              "width": 1024,
+              "height": 1024,
+              "filesize": "1166268",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2023/07/gain-1024x1024.png"
+            },
+            "thumbnail": {
+              "file": "gain-150x150.png",
+              "width": 150,
+              "height": 150,
+              "filesize": "42878",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2023/07/gain-150x150.png"
+            },
+            "medium_large": {
+              "file": "gain-768x768.png",
+              "width": 768,
+              "height": 768,
+              "filesize": "728956",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2023/07/gain-768x768.png"
+            },
+            "acf-gallery": {
+              "file": "gain-300x300.png",
+              "width": 300,
+              "height": 300,
+              "filesize": "144597",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2023/07/gain-300x300.png"
+            },
+            "full": {
+              "file": "gain.png",
+              "width": 1200,
+              "height": 1200,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2023/07/gain.png"
+            }
+          },
+          "image_meta": {
+            "aperture": "0",
+            "credit": "",
+            "camera": "",
+            "caption": "",
+            "created_timestamp": "0",
+            "copyright": "",
+            "focal_length": "0",
+            "iso": "0",
+            "shutter_speed": "0",
+            "title": "",
+            "orientation": "0"
+          }
+        },
+        "source_url": "https://avr-gaming.de/wp-content/uploads/2023/07/gain.png",
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media/1433",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media"
+            }
+          ],
+          "about": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/types/attachment"
+            }
+          ],
+          "author": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/3"
+            }
+          ],
+          "replies": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=1433"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:term": [
+      [
+        {
+          "id": 8,
+          "link": "https://avr-gaming.de/category/avr-news/",
+          "name": "AVR-NEWS",
+          "slug": "avr-news",
+          "taxonomy": "category",
+          "_links": {
+            "self": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories/8",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/taxonomies/category"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/posts?categories=8"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        }
+      ],
+      []
+    ]
+  },
+  "localImage": "/blog/images/post-1432.png"
+}

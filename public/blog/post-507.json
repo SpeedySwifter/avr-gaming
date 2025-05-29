@@ -1,0 +1,375 @@
+{
+  "id": 507,
+  "date": "2020-08-12T06:29:00",
+  "date_gmt": "2020-08-12T04:29:00",
+  "guid": {
+    "rendered": "https://avr-gaming.de/?p=507"
+  },
+  "modified": "2021-04-09T23:50:32",
+  "modified_gmt": "2021-04-09T21:50:32",
+  "slug": "avenger-gaming-e-v",
+  "status": "publish",
+  "type": "post",
+  "link": "https://avr-gaming.de/avenger-gaming-e-v/",
+  "title": {
+    "rendered": "AVengeR Gaming e.V."
+  },
+  "content": {
+    "rendered": "\n<p>Mit der Eintragung ins Vereinsregister ist für AVengeR Gaming ein lange vorbereiteter Meilenstein erreicht. Mit diesem Schritt haben wir unsere - seit Jahren vorhandenen - Strukturen formal gefestigt. Wir möchten uns für den Support unserer Partner, Unterstützer sowie die Arbeit unserer aktuellen und ehemaligen Mitgliedern bedanken. <a href=\"https://www.facebook.com/hashtag/avrarmy?__eep__=6&amp;__cft__[0]=AZUYrj2ZPIi5jckMKTVP9ClnrBgOtxsD8V0GSz9w8ChyOxL1Rc1Zd8FtAzjBIb7juUGFGijLEhYXLFkeR5FEGBxM86BA15MV6lQJhgWBflpxYYuwizftxLBgk4_yN3gF3F0ufFHEnJ6icAkW2-tVPJ0u&amp;__tn__=*NK-R\">#AVRArmy</a>Weiterhin auf eine gute Zeit und maximale Erfolge! - nun auch offiziell als eingetragener Verein <img decoding=\"async\" height=\"16\" width=\"16\" alt=\"💪\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tb/2/16/1f4aa.png\"></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Mit der Eintragung ins Vereinsregister ist für AVengeR Gaming ein lange vorbereiteter Meilenstein erreicht. Mit diesem Schritt haben wir unsere - seit Jahren vorhandenen - Strukturen formal gefestigt. Wir möchten uns für den Support unserer Partner, Unterstützer sowie die Arbeit unserer aktuellen und ehemaligen Mitgliedern bedanken. #AVRArmyWeiterhin auf eine gute Zeit und maximale Erfolge! - nun auch offiziell als eingetragener Verein </p>\n",
+    "protected": false
+  },
+  "author": 3,
+  "featured_media": 508,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    8
+  ],
+  "tags": [],
+  "class_list": [
+    "post-507",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-avr-news"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/507",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/users/3"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=507"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/507/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media/508"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media?parent=507"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/categories?post=507"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/tags?post=507"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  },
+  "_embedded": {
+    "author": [
+      {
+        "id": 3,
+        "name": "AVR-NEWS",
+        "url": "",
+        "description": "",
+        "link": "https://avr-gaming.de/author/avr-news/",
+        "slug": "avr-news",
+        "avatar_urls": {
+          "24": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=24&d=mm&r=g",
+          "48": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=48&d=mm&r=g",
+          "96": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=96&d=mm&r=g"
+        },
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/3",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "id": 508,
+        "date": "2021-03-23T06:33:58",
+        "slug": "avenger-gaming-e-v",
+        "type": "attachment",
+        "link": "https://avr-gaming.de/avenger-gaming-e-v/avenger-gaming-e-v/",
+        "title": {
+          "rendered": "Avenger Gaming e.V."
+        },
+        "author": 1,
+        "featured_media": 0,
+        "smush": {
+          "stats": {
+            "percent": 1.2366697201721486,
+            "bytes": 8586,
+            "size_before": 694284,
+            "size_after": 685698,
+            "time": 0.94,
+            "api_version": "1.0",
+            "lossy": false,
+            "keep_exif": 0
+          },
+          "sizes": {
+            "medium": {
+              "percent": 4.43,
+              "bytes": 1166,
+              "size_before": 26323,
+              "size_after": 25157,
+              "time": 0.02
+            },
+            "large": {
+              "percent": 2.06,
+              "bytes": 3733,
+              "size_before": 181453,
+              "size_after": 177720,
+              "time": 0.06
+            },
+            "thumbnail": {
+              "percent": 4.48,
+              "bytes": 383,
+              "size_before": 8556,
+              "size_after": 8173,
+              "time": 0.01
+            },
+            "medium_large": {
+              "percent": 2.68,
+              "bytes": 3117,
+              "size_before": 116158,
+              "size_after": 113041,
+              "time": 0.05
+            },
+            "acf-gallery": {
+              "percent": 0,
+              "bytes": 0,
+              "size_before": 25157,
+              "size_after": 25157,
+              "time": 0.06
+            },
+            "full": {
+              "percent": 0.06,
+              "bytes": 187,
+              "size_before": 336637,
+              "size_after": 336450,
+              "time": 0.74
+            }
+          },
+          "webp_flag": "2021/03/Avenger-Gaming-e.V.-300x300.jpeg.webp"
+        },
+        "caption": {
+          "rendered": ""
+        },
+        "alt_text": "",
+        "media_type": "image",
+        "mime_type": "image/jpeg",
+        "media_details": {
+          "width": 1200,
+          "height": 1200,
+          "file": "2021/03/Avenger-Gaming-e.V..jpeg",
+          "sizes": {
+            "medium": {
+              "file": "Avenger-Gaming-e.V.-300x300.jpeg",
+              "width": 300,
+              "height": 300,
+              "mime_type": "image/jpeg",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/Avenger-Gaming-e.V.-300x300.jpeg"
+            },
+            "large": {
+              "file": "Avenger-Gaming-e.V.-1024x1024.jpeg",
+              "width": 1024,
+              "height": 1024,
+              "mime_type": "image/jpeg",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/Avenger-Gaming-e.V.-1024x1024.jpeg"
+            },
+            "thumbnail": {
+              "file": "Avenger-Gaming-e.V.-150x150.jpeg",
+              "width": 150,
+              "height": 150,
+              "mime_type": "image/jpeg",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/Avenger-Gaming-e.V.-150x150.jpeg"
+            },
+            "medium_large": {
+              "file": "Avenger-Gaming-e.V.-768x768.jpeg",
+              "width": 768,
+              "height": 768,
+              "mime_type": "image/jpeg",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/Avenger-Gaming-e.V.-768x768.jpeg"
+            },
+            "acf-gallery": {
+              "file": "Avenger-Gaming-e.V.-300x300.jpeg",
+              "width": 300,
+              "height": 300,
+              "mime_type": "image/jpeg",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/Avenger-Gaming-e.V.-300x300.jpeg"
+            },
+            "full": {
+              "file": "Avenger-Gaming-e.V..jpeg",
+              "width": 1200,
+              "height": 1200,
+              "mime_type": "image/jpeg",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/Avenger-Gaming-e.V..jpeg"
+            }
+          },
+          "image_meta": {
+            "aperture": "0",
+            "credit": "",
+            "camera": "",
+            "caption": "",
+            "created_timestamp": "0",
+            "copyright": "",
+            "focal_length": "0",
+            "iso": "0",
+            "shutter_speed": "0",
+            "title": "",
+            "orientation": "0",
+            "keywords": []
+          }
+        },
+        "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/Avenger-Gaming-e.V..jpeg",
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media/508",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media"
+            }
+          ],
+          "about": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/types/attachment"
+            }
+          ],
+          "author": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/1"
+            }
+          ],
+          "replies": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=508"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:term": [
+      [
+        {
+          "id": 8,
+          "link": "https://avr-gaming.de/category/avr-news/",
+          "name": "AVR-NEWS",
+          "slug": "avr-news",
+          "taxonomy": "category",
+          "_links": {
+            "self": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories/8",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/taxonomies/category"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/posts?categories=8"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        }
+      ],
+      []
+    ]
+  },
+  "localImage": "/blog/images/post-507.jpeg"
+}

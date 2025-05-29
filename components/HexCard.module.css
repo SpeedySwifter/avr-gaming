@@ -1,0 +1,42 @@
+.clip-softhex-glow {
+  position: relative;
+  clip-path: polygon(
+    22% 5%, 78% 5%,
+    100% 50%, 78% 95%,
+    22% 95%, 0% 50%
+  );
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.clip-softhex-glow::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  box-shadow: inset 0 0 8px rgba(255, 255, 255, 0.15);
+  border-radius: 12px;
+  pointer-events: none;
+  z-index: 10;
+}
+
+.clip-softhex-rounded {
+  clip-path: polygon(
+    26% 8%, 74% 8%,
+    96% 50%, 74% 92%,
+    26% 92%, 4% 50%
+  );
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+.clip-softhex-clean {
+  clip-path: polygon(
+    22% 5%,
+    78% 5%,
+    100% 50%,
+    78% 95%,
+    22% 95%,
+    0% 50%
+  );
+  border-radius: 10px;
+  overflow: hidden;
+}

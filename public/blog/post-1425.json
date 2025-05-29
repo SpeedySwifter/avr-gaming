@@ -1,0 +1,392 @@
+{
+  "id": 1425,
+  "date": "2023-04-28T16:02:03",
+  "date_gmt": "2023-04-28T14:02:03",
+  "guid": {
+    "rendered": "https://avr-gaming.de/?p=1425"
+  },
+  "modified": "2023-04-28T16:02:03",
+  "modified_gmt": "2023-04-28T14:02:03",
+  "slug": "pubg-nations-cup-2023",
+  "status": "publish",
+  "type": "post",
+  "link": "https://avr-gaming.de/pubg-nations-cup-2023/",
+  "title": {
+    "rendered": "PUBG Nations Cup 2023"
+  },
+  "content": {
+    "rendered": "\n<p>Heute um 20 Uhr startet die diesjährige Auflage des PUBG Nations Cup (PNC). Die Teams setzen sich dabei aus einer Auswahl des jeweiligen Landes zusammen.</p>\n\n\n\n<p>Aus AVR-Sicht freuen wir uns, dass Nick aka AVR Vollkorn wiederholt zum Teamcaptain des deutschen LineUps gewählt wurde. Das Team selbst setzt sich aus Spielern von fünf unterschiedlichen Orgas zusammen und verspricht viel Potenzial.</p>\n\n\n\n<p>Ihr <a></a>könnt das Turnier ab 20 Uhr live bei <a href=\"http://twitch.tv/avr_vollkorn?fbclid=IwAR3qD-gLL8jTslF7xnCKAweJvdFycDA-04rp_ay_QFhqV0jatoAKITqcpkQ\" rel=\"noreferrer noopener\" target=\"_blank\">twitch.tv/avr_vollkorn</a> aus deutscher Perspektive mitverfolgen.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Heute um 20 Uhr startet die diesjährige Auflage des PUBG Nations Cup (PNC). Die Teams setzen sich dabei aus einer Auswahl des jeweiligen Landes zusammen. Aus AVR-Sicht freuen wir uns, dass Nick aka AVR Vollkorn wiederholt zum Teamcaptain des deutschen LineUps gewählt wurde. Das Team selbst setzt sich aus Spielern von fünf unterschiedlichen Orgas zusammen [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 3,
+  "featured_media": 1427,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    12
+  ],
+  "tags": [],
+  "class_list": [
+    "post-1425",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-avr-pubg"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1425",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/users/3"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=1425"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1425/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 1428,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1425/revisions/1428"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media/1427"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media?parent=1425"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/categories?post=1425"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/tags?post=1425"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  },
+  "_embedded": {
+    "author": [
+      {
+        "id": 3,
+        "name": "AVR-NEWS",
+        "url": "",
+        "description": "",
+        "link": "https://avr-gaming.de/author/avr-news/",
+        "slug": "avr-news",
+        "avatar_urls": {
+          "24": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=24&d=mm&r=g",
+          "48": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=48&d=mm&r=g",
+          "96": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=96&d=mm&r=g"
+        },
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/3",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "id": 1427,
+        "date": "2023-04-28T16:01:50",
+        "slug": "nationscup2023",
+        "type": "attachment",
+        "link": "https://avr-gaming.de/pubg-nations-cup-2023/nationscup2023/",
+        "title": {
+          "rendered": "nationscup2023"
+        },
+        "author": 3,
+        "featured_media": 0,
+        "smush": {
+          "stats": {
+            "percent": 72.81477869197697,
+            "bytes": 2147152,
+            "size_before": 2948786,
+            "size_after": 801634,
+            "time": 4.4799999999999995,
+            "api_version": "1.0",
+            "lossy": true,
+            "keep_exif": 0
+          },
+          "sizes": {
+            "medium": {
+              "percent": 79.73,
+              "bytes": 111806,
+              "size_before": 140224,
+              "size_after": 28418,
+              "time": 0.13
+            },
+            "large": {
+              "percent": 75.62,
+              "bytes": 806448,
+              "size_before": 1066486,
+              "size_after": 260038,
+              "time": 1.95
+            },
+            "thumbnail": {
+              "percent": 76.08,
+              "bytes": 30826,
+              "size_before": 40518,
+              "size_after": 9692,
+              "time": 0.04
+            },
+            "medium_large": {
+              "percent": 76.72,
+              "bytes": 522288,
+              "size_before": 680746,
+              "size_after": 158458,
+              "time": 0.76
+            },
+            "acf-gallery": {
+              "percent": 0,
+              "bytes": 0,
+              "size_before": 28418,
+              "size_after": 28418,
+              "time": 0.11
+            },
+            "full": {
+              "percent": 68.1,
+              "bytes": 675784,
+              "size_before": 992394,
+              "size_after": 316610,
+              "time": 1.49
+            }
+          },
+          "webp_flag": "2023/04/nationscup2023-300x300.png.webp"
+        },
+        "caption": {
+          "rendered": ""
+        },
+        "alt_text": "",
+        "media_type": "image",
+        "mime_type": "image/png",
+        "media_details": {
+          "width": 1200,
+          "height": 1200,
+          "file": "2023/04/nationscup2023.png",
+          "filesize": "992394",
+          "sizes": {
+            "medium": {
+              "file": "nationscup2023-300x300.png",
+              "width": 300,
+              "height": 300,
+              "filesize": "140224",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2023/04/nationscup2023-300x300.png"
+            },
+            "large": {
+              "file": "nationscup2023-1024x1024.png",
+              "width": 1024,
+              "height": 1024,
+              "filesize": "1066486",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2023/04/nationscup2023-1024x1024.png"
+            },
+            "thumbnail": {
+              "file": "nationscup2023-150x150.png",
+              "width": 150,
+              "height": 150,
+              "filesize": "40518",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2023/04/nationscup2023-150x150.png"
+            },
+            "medium_large": {
+              "file": "nationscup2023-768x768.png",
+              "width": 768,
+              "height": 768,
+              "filesize": "680746",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2023/04/nationscup2023-768x768.png"
+            },
+            "acf-gallery": {
+              "file": "nationscup2023-300x300.png",
+              "width": 300,
+              "height": 300,
+              "filesize": "140224",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2023/04/nationscup2023-300x300.png"
+            },
+            "full": {
+              "file": "nationscup2023.png",
+              "width": 1200,
+              "height": 1200,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2023/04/nationscup2023.png"
+            }
+          },
+          "image_meta": {
+            "aperture": "0",
+            "credit": "",
+            "camera": "",
+            "caption": "",
+            "created_timestamp": "0",
+            "copyright": "",
+            "focal_length": "0",
+            "iso": "0",
+            "shutter_speed": "0",
+            "title": "",
+            "orientation": "0"
+          }
+        },
+        "source_url": "https://avr-gaming.de/wp-content/uploads/2023/04/nationscup2023.png",
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media/1427",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media"
+            }
+          ],
+          "about": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/types/attachment"
+            }
+          ],
+          "author": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/3"
+            }
+          ],
+          "replies": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=1427"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:term": [
+      [
+        {
+          "id": 12,
+          "link": "https://avr-gaming.de/category/avr-news/avr-pubg/",
+          "name": "AVR.PUBG",
+          "slug": "avr-pubg",
+          "taxonomy": "category",
+          "_links": {
+            "self": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories/12",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/taxonomies/category"
+              }
+            ],
+            "up": [
+              {
+                "embeddable": true,
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories/8"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/posts?categories=12"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        }
+      ],
+      []
+    ]
+  },
+  "localImage": "/blog/images/post-1425.png"
+}

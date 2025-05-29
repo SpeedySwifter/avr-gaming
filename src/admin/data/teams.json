@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "RAINBOWSIX",
+    "title": "RAINBOWSIX",
+    "description": "AVR.RainbowSix wurde 2015 mit dem Release des Titels gegründet. Anfangs in der ESL aktiv zählt der Bereich nach einer längeren Pause heute zu den erfolgreichsten Sektionen von AVR. Zu den größten Erfolgen zählen die Meistertitel in der ebattle Champions Series und in der Ultimate League der Deutschen eSport-Bundesliga.",
+    "image": "/img/teams/rainbow.webp"
+  },
+  {
+    "slug": "PUBG",
+    "title": "PUBG",
+    "description": "AVR.PUBG wurde mit dem Release von Playerunknown’s Battlegrounds auf der Xbox Ende 2017 gegründet. Unsere PUBG-LineUps sind in mehreren nationalen und internationalen Ligen vertreten. AVR.PUBG ist Rekordmeister in der europäischen Konsolensektion der ESL und wurde in der von PUBG organisierten Carnage League (PCCL) Dritter.\n\nDer Bereich wird von Nick „AVR Vollkorn“ Böttner geleitet.",
+    "image": "/img/teams/pubg.webp"
+  },
+  {
+    "slug": "DESTINY",
+    "title": "DESTINY",
+    "description": "AVR.Destiny stellt den einzigen Bereich bei AVR dar, der sich nicht dem konventionellen eSport zuordnen lässt. Das Kernstück stellt die PvE-Umgebung dar, in der das Team etwa neue Raids möglichst schnell abschließen will (World’s First Rankings) oder der Community Hilfestellungen bietet.\n\nDer Bereich wird von Philipp „AVR Exesie“ Martens geleitet",
+    "image": "/img/teams/destiny_.webp"
+  },
+  {
+    "slug": "clash",
+    "title": "clash",
+    "description": "clash und so ",
+    "image": "/img/teams/clash.webp"
+  },
+  {
+    "slug": "HALO",
+    "title": "HALO",
+    "description": "",
+    "image": "/img/teams/halo-infinite.webp"
+  },
+  {
+    "slug": "HISTORIC",
+    "title": "HISTORIC",
+    "description": "",
+    "image": "/img/teams/historic.webp"
+  }
+]

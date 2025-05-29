@@ -1,0 +1,386 @@
+{
+  "id": 1370,
+  "date": "2022-10-13T12:12:41",
+  "date_gmt": "2022-10-13T10:12:41",
+  "guid": {
+    "rendered": "https://avr-gaming.de/?p=1370"
+  },
+  "modified": "2022-10-13T12:12:42",
+  "modified_gmt": "2022-10-13T10:12:42",
+  "slug": "overwatch-2-spielersuche",
+  "status": "publish",
+  "type": "post",
+  "link": "https://avr-gaming.de/overwatch-2-spielersuche/",
+  "title": {
+    "rendered": "Overwatch 2 Spielersuche"
+  },
+  "content": {
+    "rendered": "\n<p>Wir suchen Spieler für Overwatch 2-Turniere auf der Konsole. Dabei peilen wir dir Teilnahme in der Deutschen eSport Bundesliga und ggf. bei weiteren Plattformen an. Bei Interesse meldet euch gern direkt auf Xbox Live bei AVR Wallace oder AVR JxH. Spieler von der Playstation können uns eine PN über Social Media schreiben.</p>\n\n\n\n<p>Ihr solltet mitbringen:</p>\n\n\n\n<p>- <a></a>ein Mindestalter von 16 Jahren</p>\n\n\n\n<p>- Overwatch-Erfahrung aus dem Vorgänger (min. Diamond-Elo bei Overwatch 1)</p>\n\n\n\n<p>- Informationen über die Rollen/Heroes, die ihr spielt</p>\n\n\n\n<p>- Bereitschaft zur Flexibilität bei den Heroes</p>\n\n\n\n<p>- Geistige Reife, Motivation, Ehrgeiz und Aktivität für den eSport</p>\n\n\n\n<p>Zu AVengeR Gaming e.V.: Wir sind ein eingetragener eSport-Verein mit derzeit etwa 80 Mitgliedern und bestehen seit 2009. Aktuell sind wir vor allem bei Rainbow Six, PUBG und FIFA auf der Xbox aktiv, wobei auch andere Bereiche bereits in Planung sind. Unser Ziel ist es, euch eine ausgereifte Plattform für wettbewerbsorientiertes Gaming zu bieten. Viele Infos könnt ihr auf unseren Social Media Profilen und auf unserer Website (<a rel=\"noreferrer noopener\" href=\"http://www.avr-gaming.de/?fbclid=IwAR32NyUiNQWN5cZSBSBpga31VfpTe9155tcJxJoXjczDUy69CRr_fhDpiFw\" target=\"_blank\">www.avr-gaming.de</a>) finden. Für Fragen sind wir natürlich jederzeit offen.</p>\n\n\n\n<p>Wir freuen uns auf eure Nachrichten</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Wir suchen Spieler für Overwatch 2-Turniere auf der Konsole. Dabei peilen wir dir Teilnahme in der Deutschen eSport Bundesliga und ggf. bei weiteren Plattformen an. Bei Interesse meldet euch gern direkt auf Xbox Live bei AVR Wallace oder AVR JxH. Spieler von der Playstation können uns eine PN über Social Media schreiben. Ihr solltet mitbringen: [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 3,
+  "featured_media": 1371,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    8
+  ],
+  "tags": [],
+  "class_list": [
+    "post-1370",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-avr-news"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1370",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/users/3"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=1370"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1370/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 1372,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1370/revisions/1372"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media/1371"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media?parent=1370"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/categories?post=1370"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/tags?post=1370"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  },
+  "_embedded": {
+    "author": [
+      {
+        "id": 3,
+        "name": "AVR-NEWS",
+        "url": "",
+        "description": "",
+        "link": "https://avr-gaming.de/author/avr-news/",
+        "slug": "avr-news",
+        "avatar_urls": {
+          "24": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=24&d=mm&r=g",
+          "48": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=48&d=mm&r=g",
+          "96": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=96&d=mm&r=g"
+        },
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/3",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "id": 1371,
+        "date": "2022-10-13T12:12:24",
+        "slug": "spielersuche-2022",
+        "type": "attachment",
+        "link": "https://avr-gaming.de/overwatch-2-spielersuche/spielersuche-2022/",
+        "title": {
+          "rendered": "spielersuche 2022"
+        },
+        "author": 3,
+        "featured_media": 0,
+        "smush": {
+          "stats": {
+            "percent": 79.0370489231208,
+            "bytes": 1773212,
+            "size_before": 2243520,
+            "size_after": 470308,
+            "time": 6.07,
+            "api_version": "1.0",
+            "lossy": true,
+            "keep_exif": 0
+          },
+          "sizes": {
+            "medium": {
+              "percent": 80.32,
+              "bytes": 81402,
+              "size_before": 101352,
+              "size_after": 19950,
+              "time": 0.34
+            },
+            "large": {
+              "percent": 80.1,
+              "bytes": 574795,
+              "size_before": 717568,
+              "size_after": 142773,
+              "time": 1.2
+            },
+            "thumbnail": {
+              "percent": 80.63,
+              "bytes": 26314,
+              "size_before": 32634,
+              "size_after": 6320,
+              "time": 0.08
+            },
+            "medium_large": {
+              "percent": 80.1,
+              "bytes": 362475,
+              "size_before": 452507,
+              "size_after": 90032,
+              "time": 0.84
+            },
+            "acf-gallery": {
+              "percent": 0,
+              "bytes": 0,
+              "size_before": 19950,
+              "size_after": 19950,
+              "time": 0.26
+            },
+            "full": {
+              "percent": 79.2,
+              "bytes": 728226,
+              "size_before": 919509,
+              "size_after": 191283,
+              "time": 3.35
+            }
+          },
+          "webp_flag": "2022/10/spielersuche-2022-300x300.png.webp"
+        },
+        "caption": {
+          "rendered": ""
+        },
+        "alt_text": "",
+        "media_type": "image",
+        "mime_type": "image/png",
+        "media_details": {
+          "width": 1200,
+          "height": 1200,
+          "file": "2022/10/spielersuche-2022.png",
+          "filesize": "919509",
+          "sizes": {
+            "medium": {
+              "file": "spielersuche-2022-300x300.png",
+              "width": 300,
+              "height": 300,
+              "filesize": "101352",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/10/spielersuche-2022-300x300.png"
+            },
+            "large": {
+              "file": "spielersuche-2022-1024x1024.png",
+              "width": 1024,
+              "height": 1024,
+              "filesize": "717568",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/10/spielersuche-2022-1024x1024.png"
+            },
+            "thumbnail": {
+              "file": "spielersuche-2022-150x150.png",
+              "width": 150,
+              "height": 150,
+              "filesize": "32634",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/10/spielersuche-2022-150x150.png"
+            },
+            "medium_large": {
+              "file": "spielersuche-2022-768x768.png",
+              "width": 768,
+              "height": 768,
+              "filesize": "452507",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/10/spielersuche-2022-768x768.png"
+            },
+            "acf-gallery": {
+              "file": "spielersuche-2022-300x300.png",
+              "width": 300,
+              "height": 300,
+              "filesize": "101352",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/10/spielersuche-2022-300x300.png"
+            },
+            "full": {
+              "file": "spielersuche-2022.png",
+              "width": 1200,
+              "height": 1200,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/10/spielersuche-2022.png"
+            }
+          },
+          "image_meta": {
+            "aperture": "0",
+            "credit": "",
+            "camera": "",
+            "caption": "",
+            "created_timestamp": "0",
+            "copyright": "",
+            "focal_length": "0",
+            "iso": "0",
+            "shutter_speed": "0",
+            "title": "",
+            "orientation": "0"
+          }
+        },
+        "source_url": "https://avr-gaming.de/wp-content/uploads/2022/10/spielersuche-2022.png",
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media/1371",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media"
+            }
+          ],
+          "about": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/types/attachment"
+            }
+          ],
+          "author": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/3"
+            }
+          ],
+          "replies": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=1371"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:term": [
+      [
+        {
+          "id": 8,
+          "link": "https://avr-gaming.de/category/avr-news/",
+          "name": "AVR-NEWS",
+          "slug": "avr-news",
+          "taxonomy": "category",
+          "_links": {
+            "self": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories/8",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/taxonomies/category"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/posts?categories=8"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        }
+      ],
+      []
+    ]
+  },
+  "localImage": "/blog/images/post-1370.png"
+}

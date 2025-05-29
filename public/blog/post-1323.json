@@ -1,0 +1,392 @@
+{
+  "id": 1323,
+  "date": "2022-08-06T21:34:05",
+  "date_gmt": "2022-08-06T19:34:05",
+  "guid": {
+    "rendered": "https://avr-gaming.de/?p=1323"
+  },
+  "modified": "2022-08-06T21:34:09",
+  "modified_gmt": "2022-08-06T19:34:09",
+  "slug": "mid-season-clash-qualifikation",
+  "status": "publish",
+  "type": "post",
+  "link": "https://avr-gaming.de/mid-season-clash-qualifikation/",
+  "title": {
+    "rendered": "Mid-Season Clash Qualifikation"
+  },
+  "content": {
+    "rendered": "\n<p>Das Sommerloch ist jedes Jahr eine wiederkehrende Herausforderung: Urlaub, Wärme und eine allgemeine Flaute in der Gamingwelt gehören besonders von Juni bis August zu den kalkulierbaren (und nicht kalkulierenbaren) Risiken in unserer Jahresplanung.</p>\n\n\n\n<p>Umso besser ist es dann, wenn auch gänzlich neue Aufstellungen funktionieren können. So konnten wir uns heute mit einem kaum erprobten LineUp direkt im ersten Quali-Cup für den ebattle Mid-Season Clash qualifizieren. Mit einem 7:5 gegen Valravn eSports und einem 7:1 gegen Just DeLa können sich die Endresultate dabei ebenso sehen lassen, wie die Einzelleistungen unserer Spieler</p>\n\n\n\n<p>Zum Turnier: <a href=\"https://www.ebattle.gg/turnier/770_ebattle_MidSeason_Clash__Qualifier_1_Xbox\" class=\"rank-math-link\">https://www.ebattle.gg/turnier/770_ebattle_MidSeason_Clash__Qualifier_1_Xbox</a></p>\n\n\n\n<p></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Das Sommerloch ist jedes Jahr eine wiederkehrende Herausforderung: Urlaub, Wärme und eine allgemeine Flaute in der Gamingwelt gehören besonders von Juni bis August zu den kalkulierbaren (und nicht kalkulierenbaren) Risiken in unserer Jahresplanung. Umso besser ist es dann, wenn auch gänzlich neue Aufstellungen funktionieren können. So konnten wir uns heute mit einem kaum erprobten LineUp [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 3,
+  "featured_media": 1325,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    14
+  ],
+  "tags": [],
+  "class_list": [
+    "post-1323",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-avr-rainbowsix"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1323",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/users/3"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=1323"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1323/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 1326,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1323/revisions/1326"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media/1325"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media?parent=1323"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/categories?post=1323"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/tags?post=1323"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  },
+  "_embedded": {
+    "author": [
+      {
+        "id": 3,
+        "name": "AVR-NEWS",
+        "url": "",
+        "description": "",
+        "link": "https://avr-gaming.de/author/avr-news/",
+        "slug": "avr-news",
+        "avatar_urls": {
+          "24": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=24&d=mm&r=g",
+          "48": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=48&d=mm&r=g",
+          "96": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=96&d=mm&r=g"
+        },
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/3",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "id": 1325,
+        "date": "2022-08-06T21:33:45",
+        "slug": "midseasonquali",
+        "type": "attachment",
+        "link": "https://avr-gaming.de/mid-season-clash-qualifikation/midseasonquali/",
+        "title": {
+          "rendered": "midseasonquali"
+        },
+        "author": 3,
+        "featured_media": 0,
+        "smush": {
+          "stats": {
+            "percent": 79.57274650917603,
+            "bytes": 2152516,
+            "size_before": 2705092,
+            "size_after": 552576,
+            "time": 5.359999999999999,
+            "api_version": "1.0",
+            "lossy": true,
+            "keep_exif": 0
+          },
+          "sizes": {
+            "medium": {
+              "percent": 80.65,
+              "bytes": 92545,
+              "size_before": 114755,
+              "size_after": 22210,
+              "time": 0.14
+            },
+            "large": {
+              "percent": 81.14,
+              "bytes": 752498,
+              "size_before": 927455,
+              "size_after": 174957,
+              "time": 1.9
+            },
+            "thumbnail": {
+              "percent": 77.43,
+              "bytes": 27471,
+              "size_before": 35480,
+              "size_after": 8009,
+              "time": 0.05
+            },
+            "medium_large": {
+              "percent": 81.39,
+              "bytes": 463161,
+              "size_before": 569062,
+              "size_after": 105901,
+              "time": 1.08
+            },
+            "acf-gallery": {
+              "percent": 0,
+              "bytes": 0,
+              "size_before": 22210,
+              "size_after": 22210,
+              "time": 0.3
+            },
+            "full": {
+              "percent": 78.84,
+              "bytes": 816841,
+              "size_before": 1036130,
+              "size_after": 219289,
+              "time": 1.89
+            }
+          },
+          "webp_flag": "2022/08/midseasonquali-300x300.png.webp"
+        },
+        "caption": {
+          "rendered": ""
+        },
+        "alt_text": "midseasonquali",
+        "media_type": "image",
+        "mime_type": "image/png",
+        "media_details": {
+          "width": 1200,
+          "height": 1200,
+          "file": "2022/08/midseasonquali.png",
+          "filesize": "1036130",
+          "sizes": {
+            "medium": {
+              "file": "midseasonquali-300x300.png",
+              "width": 300,
+              "height": 300,
+              "filesize": "114755",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/08/midseasonquali-300x300.png"
+            },
+            "large": {
+              "file": "midseasonquali-1024x1024.png",
+              "width": 1024,
+              "height": 1024,
+              "filesize": "927455",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/08/midseasonquali-1024x1024.png"
+            },
+            "thumbnail": {
+              "file": "midseasonquali-150x150.png",
+              "width": 150,
+              "height": 150,
+              "filesize": "35480",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/08/midseasonquali-150x150.png"
+            },
+            "medium_large": {
+              "file": "midseasonquali-768x768.png",
+              "width": 768,
+              "height": 768,
+              "filesize": "569062",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/08/midseasonquali-768x768.png"
+            },
+            "acf-gallery": {
+              "file": "midseasonquali-300x300.png",
+              "width": 300,
+              "height": 300,
+              "filesize": "114755",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/08/midseasonquali-300x300.png"
+            },
+            "full": {
+              "file": "midseasonquali.png",
+              "width": 1200,
+              "height": 1200,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/08/midseasonquali.png"
+            }
+          },
+          "image_meta": {
+            "aperture": "0",
+            "credit": "",
+            "camera": "",
+            "caption": "",
+            "created_timestamp": "0",
+            "copyright": "",
+            "focal_length": "0",
+            "iso": "0",
+            "shutter_speed": "0",
+            "title": "",
+            "orientation": "0"
+          }
+        },
+        "source_url": "https://avr-gaming.de/wp-content/uploads/2022/08/midseasonquali.png",
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media/1325",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media"
+            }
+          ],
+          "about": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/types/attachment"
+            }
+          ],
+          "author": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/3"
+            }
+          ],
+          "replies": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=1325"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:term": [
+      [
+        {
+          "id": 14,
+          "link": "https://avr-gaming.de/category/avr-news/avr-rainbowsix/",
+          "name": "AVR.RainbowSix",
+          "slug": "avr-rainbowsix",
+          "taxonomy": "category",
+          "_links": {
+            "self": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories/14",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/taxonomies/category"
+              }
+            ],
+            "up": [
+              {
+                "embeddable": true,
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories/8"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/posts?categories=14"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        }
+      ],
+      []
+    ]
+  },
+  "localImage": "/blog/images/post-1323.png"
+}

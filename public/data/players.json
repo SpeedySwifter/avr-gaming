@@ -1,0 +1,14 @@
+[
+  {
+    "id": "player01",
+    "name": "Alex Storm",
+    "role": "Leader",
+    "image": "/img/players/alex.png"
+  },
+  {
+    "id": "player02",
+    "name": "Luna Shadow",
+    "role": "Sniper",
+    "image": "/img/players/luna.png"
+  }
+]

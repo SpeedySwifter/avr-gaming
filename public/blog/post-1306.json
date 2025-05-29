@@ -1,0 +1,392 @@
+{
+  "id": 1306,
+  "date": "2022-06-16T12:54:01",
+  "date_gmt": "2022-06-16T10:54:01",
+  "guid": {
+    "rendered": "https://avr-gaming.de/?p=1306"
+  },
+  "modified": "2022-06-16T12:54:04",
+  "modified_gmt": "2022-06-16T10:54:04",
+  "slug": "hinrunde-der-cs-auf-platz-1-beendet",
+  "status": "publish",
+  "type": "post",
+  "link": "https://avr-gaming.de/hinrunde-der-cs-auf-platz-1-beendet/",
+  "title": {
+    "rendered": "Hinrunde der CS auf Platz 1 beendet"
+  },
+  "content": {
+    "rendered": "\n<p>Mit dem gestrigen Draw gegen Unbeaten (uB) hat AVR.RainbowSix die Hinrunde der ebattle Champions Series auf dem ersten Platz beendet. Wir sichern uns damit eine sehr komfortable Position in den Playoffs, die bald als KO-Turnier starten.</p>\n\n\n\n<p>Mit insgesamt 6 Siegen und einem Draw blieben wir in den letzten Monaten ungeschlagen und blicken optimistisch auf die kommende Herausforderung.</p>\n\n\n\n<p>Zur Tabelle: <a href=\"https://www.ebattle.gg/liga/141_ebattle_Champions_Series_20221_XBOX/tabelle\" class=\"rank-math-link\">https://www.ebattle.gg/liga/141_ebattle_Champions_Series_20221_XBOX/tabelle</a></p>\n\n\n\n<p></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Mit dem gestrigen Draw gegen Unbeaten (uB) hat AVR.RainbowSix die Hinrunde der ebattle Champions Series auf dem ersten Platz beendet. Wir sichern uns damit eine sehr komfortable Position in den Playoffs, die bald als KO-Turnier starten. Mit insgesamt 6 Siegen und einem Draw blieben wir in den letzten Monaten ungeschlagen und blicken optimistisch auf die [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 3,
+  "featured_media": 1307,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    14
+  ],
+  "tags": [],
+  "class_list": [
+    "post-1306",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-avr-rainbowsix"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1306",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/users/3"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=1306"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1306/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 1308,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1306/revisions/1308"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media/1307"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media?parent=1306"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/categories?post=1306"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/tags?post=1306"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  },
+  "_embedded": {
+    "author": [
+      {
+        "id": 3,
+        "name": "AVR-NEWS",
+        "url": "",
+        "description": "",
+        "link": "https://avr-gaming.de/author/avr-news/",
+        "slug": "avr-news",
+        "avatar_urls": {
+          "24": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=24&d=mm&r=g",
+          "48": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=48&d=mm&r=g",
+          "96": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=96&d=mm&r=g"
+        },
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/3",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "id": 1307,
+        "date": "2022-06-16T12:53:32",
+        "slug": "cupwinr6-4",
+        "type": "attachment",
+        "link": "https://avr-gaming.de/hinrunde-der-cs-auf-platz-1-beendet/cupwinr6-4/",
+        "title": {
+          "rendered": "cupwinr6"
+        },
+        "author": 3,
+        "featured_media": 0,
+        "smush": {
+          "stats": {
+            "percent": 79.91691995947315,
+            "bytes": 2366340,
+            "size_before": 2961000,
+            "size_after": 594660,
+            "time": 8.93,
+            "api_version": "1.0",
+            "lossy": true,
+            "keep_exif": 0
+          },
+          "sizes": {
+            "medium": {
+              "percent": 81.95,
+              "bytes": 100587,
+              "size_before": 122745,
+              "size_after": 22158,
+              "time": 0.63
+            },
+            "large": {
+              "percent": 84.02,
+              "bytes": 950916,
+              "size_before": 1131749,
+              "size_after": 180833,
+              "time": 1.26
+            },
+            "thumbnail": {
+              "percent": 78.27,
+              "bytes": 28684,
+              "size_before": 36648,
+              "size_after": 7964,
+              "time": 0.17
+            },
+            "medium_large": {
+              "percent": 83.25,
+              "bytes": 568908,
+              "size_before": 683401,
+              "size_after": 114493,
+              "time": 0.74
+            },
+            "acf-gallery": {
+              "percent": 0,
+              "bytes": 0,
+              "size_before": 22158,
+              "size_after": 22158,
+              "time": 0.1
+            },
+            "full": {
+              "percent": 74.38,
+              "bytes": 717245,
+              "size_before": 964299,
+              "size_after": 247054,
+              "time": 6.03
+            }
+          },
+          "webp_flag": "2022/06/cupwinr6-300x300.png.webp"
+        },
+        "caption": {
+          "rendered": ""
+        },
+        "alt_text": "cupwinr6",
+        "media_type": "image",
+        "mime_type": "image/png",
+        "media_details": {
+          "width": 1200,
+          "height": 1200,
+          "file": "2022/06/cupwinr6.png",
+          "filesize": "964299",
+          "sizes": {
+            "medium": {
+              "file": "cupwinr6-300x300.png",
+              "width": 300,
+              "height": 300,
+              "filesize": "122745",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/06/cupwinr6-300x300.png"
+            },
+            "large": {
+              "file": "cupwinr6-1024x1024.png",
+              "width": 1024,
+              "height": 1024,
+              "filesize": "1131749",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/06/cupwinr6-1024x1024.png"
+            },
+            "thumbnail": {
+              "file": "cupwinr6-150x150.png",
+              "width": 150,
+              "height": 150,
+              "filesize": "36648",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/06/cupwinr6-150x150.png"
+            },
+            "medium_large": {
+              "file": "cupwinr6-768x768.png",
+              "width": 768,
+              "height": 768,
+              "filesize": "683401",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/06/cupwinr6-768x768.png"
+            },
+            "acf-gallery": {
+              "file": "cupwinr6-300x300.png",
+              "width": 300,
+              "height": 300,
+              "filesize": "122745",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/06/cupwinr6-300x300.png"
+            },
+            "full": {
+              "file": "cupwinr6.png",
+              "width": 1200,
+              "height": 1200,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/06/cupwinr6.png"
+            }
+          },
+          "image_meta": {
+            "aperture": "0",
+            "credit": "",
+            "camera": "",
+            "caption": "",
+            "created_timestamp": "0",
+            "copyright": "",
+            "focal_length": "0",
+            "iso": "0",
+            "shutter_speed": "0",
+            "title": "",
+            "orientation": "0"
+          }
+        },
+        "source_url": "https://avr-gaming.de/wp-content/uploads/2022/06/cupwinr6.png",
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media/1307",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media"
+            }
+          ],
+          "about": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/types/attachment"
+            }
+          ],
+          "author": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/3"
+            }
+          ],
+          "replies": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=1307"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:term": [
+      [
+        {
+          "id": 14,
+          "link": "https://avr-gaming.de/category/avr-news/avr-rainbowsix/",
+          "name": "AVR.RainbowSix",
+          "slug": "avr-rainbowsix",
+          "taxonomy": "category",
+          "_links": {
+            "self": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories/14",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/taxonomies/category"
+              }
+            ],
+            "up": [
+              {
+                "embeddable": true,
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories/8"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/posts?categories=14"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        }
+      ],
+      []
+    ]
+  },
+  "localImage": "/blog/images/post-1306.png"
+}

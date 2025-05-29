@@ -1,0 +1,380 @@
+{
+  "id": 1273,
+  "date": "2022-02-07T11:47:18",
+  "date_gmt": "2022-02-07T10:47:18",
+  "guid": {
+    "rendered": "https://avr-gaming.de/?p=1273"
+  },
+  "modified": "2022-02-07T11:47:22",
+  "modified_gmt": "2022-02-07T10:47:22",
+  "slug": "mojokaii-wird-neuer-partner",
+  "status": "publish",
+  "type": "post",
+  "link": "https://avr-gaming.de/mojokaii-wird-neuer-partner/",
+  "title": {
+    "rendered": "Mojokaii wird neuer Partner"
+  },
+  "content": {
+    "rendered": "\n<p>Wir freuen uns auf die Zusammenarbeit mit unserem neuen Partner MOJOKAII.</p>\n\n\n\n<p>MOJOKAII steht für qualitativ hochwertige Gaming-Booster auf Basis ausgewählter Zutaten und Geschmacksrichtungen. Bei MOJOKAII steht der Kunde ebenso im Mittelpunkt wie höchste Qualitätsstandards, faire Preise und eine breite Produktpalette. Der Name ist nicht zufällig gewählt: MOJO bezeichnet die Lebensenergie. KAII ist die körperliche Kampfkraft und Geschicklichkeit.</p>\n\n\n\n<p>Neben zahlreichen Geschmacksrichtungen werden auch unterschiedliche Größen und Probierpakete angeboten, bei denen für jeden etwas dabei ist. Der Versand nach Deutschland ist noch dazu kostenlos.</p>\n\n\n\n<p>Hier ist man in Sachen Gaming-Booster genau richtig!</p>\n\n\n\n<p>Hier geht's zur Website und zum Shop: <a rel=\"noreferrer noopener\" href=\"https://mojokaii.com/?sca_ref=1616202.qxNIJdoJhC&amp;fbclid=IwAR3A3u9XhAnp7h3Rqyq58V9wGPYd5ZtxyF4aJCZpgSt7zWQkbqQX0wNImeE\" target=\"_blank\">https://mojokaii.com/?sca_ref=1616202.qxNIJdoJhC</a></p>\n\n\n\n<p><img decoding=\"async\" alt=\"❗\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/td1/2/16/2757.png\" width=\"16\" height=\"16\"> Mit dem Code \"AVR_10\" könnt ihr euch schon jetzt 20% Rabatt an der Kasse sichern.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Wir freuen uns auf die Zusammenarbeit mit unserem neuen Partner MOJOKAII. MOJOKAII steht für qualitativ hochwertige Gaming-Booster auf Basis ausgewählter Zutaten und Geschmacksrichtungen. Bei MOJOKAII steht der Kunde ebenso im Mittelpunkt wie höchste Qualitätsstandards, faire Preise und eine breite Produktpalette. Der Name ist nicht zufällig gewählt: MOJO bezeichnet die Lebensenergie. KAII ist die körperliche Kampfkraft [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 3,
+  "featured_media": 1274,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    8
+  ],
+  "tags": [],
+  "class_list": [
+    "post-1273",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-avr-news"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1273",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/users/3"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=1273"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1273/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 1275,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1273/revisions/1275"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media/1274"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media?parent=1273"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/categories?post=1273"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/tags?post=1273"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  },
+  "_embedded": {
+    "author": [
+      {
+        "id": 3,
+        "name": "AVR-NEWS",
+        "url": "",
+        "description": "",
+        "link": "https://avr-gaming.de/author/avr-news/",
+        "slug": "avr-news",
+        "avatar_urls": {
+          "24": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=24&d=mm&r=g",
+          "48": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=48&d=mm&r=g",
+          "96": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=96&d=mm&r=g"
+        },
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/3",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "id": 1274,
+        "date": "2022-02-07T11:46:59",
+        "slug": "cupwinr6-2022-2",
+        "type": "attachment",
+        "link": "https://avr-gaming.de/mojokaii-wird-neuer-partner/cupwinr6-2022-2/",
+        "title": {
+          "rendered": "cupwinr6-2022"
+        },
+        "author": 3,
+        "featured_media": 0,
+        "smush": {
+          "stats": {
+            "percent": 6.949445772292609,
+            "bytes": 165295,
+            "size_before": 2378535,
+            "size_after": 2213240,
+            "time": 7.630000000000001,
+            "api_version": "1.0",
+            "lossy": false,
+            "keep_exif": 0
+          },
+          "sizes": {
+            "medium": {
+              "percent": 6.7,
+              "bytes": 6745,
+              "size_before": 100686,
+              "size_after": 93941,
+              "time": 0.16
+            },
+            "large": {
+              "percent": 3.86,
+              "bytes": 28715,
+              "size_before": 743678,
+              "size_after": 714963,
+              "time": 2.19
+            },
+            "thumbnail": {
+              "percent": 6.74,
+              "bytes": 2209,
+              "size_before": 32767,
+              "size_after": 30558,
+              "time": 0.16
+            },
+            "medium_large": {
+              "percent": 4.77,
+              "bytes": 22260,
+              "size_before": 466258,
+              "size_after": 443998,
+              "time": 1.61
+            },
+            "acf-gallery": {
+              "percent": 0,
+              "bytes": 0,
+              "size_before": 93941,
+              "size_after": 93941,
+              "time": 0.23
+            },
+            "full": {
+              "percent": 11.19,
+              "bytes": 105366,
+              "size_before": 941205,
+              "size_after": 835839,
+              "time": 3.28
+            }
+          },
+          "webp_flag": "2022/02/cupwinr6-2022-300x300.png.webp"
+        },
+        "caption": {
+          "rendered": ""
+        },
+        "alt_text": "",
+        "media_type": "image",
+        "mime_type": "image/png",
+        "media_details": {
+          "width": 1200,
+          "height": 1200,
+          "file": "2022/02/cupwinr6-2022.png",
+          "sizes": {
+            "medium": {
+              "file": "cupwinr6-2022-300x300.png",
+              "width": 300,
+              "height": 300,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/02/cupwinr6-2022-300x300.png"
+            },
+            "large": {
+              "file": "cupwinr6-2022-1024x1024.png",
+              "width": 1024,
+              "height": 1024,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/02/cupwinr6-2022-1024x1024.png"
+            },
+            "thumbnail": {
+              "file": "cupwinr6-2022-150x150.png",
+              "width": 150,
+              "height": 150,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/02/cupwinr6-2022-150x150.png"
+            },
+            "medium_large": {
+              "file": "cupwinr6-2022-768x768.png",
+              "width": 768,
+              "height": 768,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/02/cupwinr6-2022-768x768.png"
+            },
+            "acf-gallery": {
+              "file": "cupwinr6-2022-300x300.png",
+              "width": 300,
+              "height": 300,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/02/cupwinr6-2022-300x300.png"
+            },
+            "full": {
+              "file": "cupwinr6-2022.png",
+              "width": 1200,
+              "height": 1200,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/02/cupwinr6-2022.png"
+            }
+          },
+          "image_meta": {
+            "aperture": "0",
+            "credit": "",
+            "camera": "",
+            "caption": "",
+            "created_timestamp": "0",
+            "copyright": "",
+            "focal_length": "0",
+            "iso": "0",
+            "shutter_speed": "0",
+            "title": "",
+            "orientation": "0"
+          }
+        },
+        "source_url": "https://avr-gaming.de/wp-content/uploads/2022/02/cupwinr6-2022.png",
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media/1274",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media"
+            }
+          ],
+          "about": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/types/attachment"
+            }
+          ],
+          "author": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/3"
+            }
+          ],
+          "replies": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=1274"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:term": [
+      [
+        {
+          "id": 8,
+          "link": "https://avr-gaming.de/category/avr-news/",
+          "name": "AVR-NEWS",
+          "slug": "avr-news",
+          "taxonomy": "category",
+          "_links": {
+            "self": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories/8",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/taxonomies/category"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/posts?categories=8"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        }
+      ],
+      []
+    ]
+  },
+  "localImage": "/blog/images/post-1273.png"
+}

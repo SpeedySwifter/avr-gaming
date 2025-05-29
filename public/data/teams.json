@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "pubg",
+    "title": "PUBG",
+    "description": "AVR.PUBG wurde mit dem Release von Playerunknown’s Battlegrounds auf der Xbox Ende 2017 gegründet. Unsere PUBG-LineUps sind in mehreren nationalen und internationalen Ligen vertreten. AVR.PUBG ist Rekordmeister in der europäischen Konsolensektion der ESL und wurde in der von PUBG organisierten Carnage League (PCCL) Dritter. Der Bereich wird von Nick „AVR Vollkorn“ Böttner geleitet.",
+    "image": "/img/teams/pubg.webp"
+  },
+  {
+    "slug": "ea-sports-fc",
+    "title": "EA Sports Fc",
+    "description": "AVR.FIFA gründete sich 2011 und setzt heute auf zwei ProClub-Teams: AVR.Classic XI und AVR.Eagles. Beide Teams sind in der Virtual Pro League (VPL) und bei Virtual Pro Gaming (VPG) aktiv. Der Bereich wird von Kevin „AVR Bissaka“ Brandt, Pasqual „AVR Xavi I6I“ Schneider und Peter „AVR DeadMachine“ Reitz geleitet.",
+    "image": "/img/teams/fifa.webp"
+  },
+  {
+    "slug": "historic",
+    "title": "Historic Teams",
+    "description": "Willkommen in der Ruhmeshalle der Pixel-Pioniere!\nHier findest du unsere legendären Teams, die Geschichte geschrieben haben – sei es durch spektakuläre Siege, kreative Taktiken oder einfach durch den epischen Ragequit im Finale.\n\nDiese Truppe ist zwar (meist) im Ruhestand, aber ihr Spirit lebt weiter – in unseren Herzen, in den Memes und auf den alten Screenshots, die keiner mehr öffnen kann.\n\n Früher war nicht alles besser. Aber epischer.",
+    "image": "/img/teams/historic.webp"
+  }
+]

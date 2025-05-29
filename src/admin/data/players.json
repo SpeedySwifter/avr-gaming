@@ -1,0 +1,14 @@
+[
+  {
+    "id": "nox",
+    "name": "Max 'Nox' Mustermann",
+    "role": "Support",
+    "image": "/players/nox.png"
+  },
+  {
+    "id": "serain",
+    "name": "Luca 'SeRaIn' Beispiel",
+    "role": "Captain",
+    "image": "/players/serain.jpg"
+  }
+]

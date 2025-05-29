@@ -1,0 +1,128 @@
+[
+  {
+    "team": "AVR.Battlefield",
+    "years": "2010–2018",
+    "awards": [
+      {
+        "title": "DeSBL Ewigenabtlle BF1 (Xbox)",
+        "year": 2018,
+        "type": "Gold"
+      },
+      {
+        "title": "NAFC \"This is Demination\" BF1-Cup",
+        "year": 2018,
+        "type": "Bronze"
+      },
+      {
+        "title": "ShowerMoroshov League",
+        "year": 2017,
+        "type": "Bronze"
+      }
+    ]
+  },
+  {
+    "team": "AVR.FarCry",
+    "years": "2009–2012",
+    "awards": [
+      {
+        "title": "ESL 5on5 BFH Rescue Weekly Cup #5",
+        "year": 2011,
+        "type": "Gold"
+      },
+      {
+        "title": "ESL 5on5 BFH Rescue Weekly Cup #6",
+        "year": 2011,
+        "type": "Silver"
+      },
+      {
+        "title": "CSL 1on1 FC3 Opening Cup Germany",
+        "year": 2012,
+        "type": "Gold"
+      }
+    ]
+  },
+  {
+    "team": "AVR.FIFA",
+    "years": "2021",
+    "awards": [
+      {
+        "title": "Virtual Pro Gaming Deutschland Liga 1",
+        "year": 2021,
+        "type": "Gold"
+      },
+      {
+        "title": "Virtual Pro Gaming Europe South 2",
+        "year": 2021,
+        "type": "Silver"
+      },
+      {
+        "title": "Virtual Pro League VPL 3",
+        "year": 2021,
+        "type": "Silver"
+      }
+    ]
+  },
+  {
+    "team": "AVR.Destiny",
+    "years": "2018–2020",
+    "awards": [
+      {
+        "title": "Prophecy Dungeon World's First run (Xbox) – 2nd",
+        "year": 2020,
+        "type": "Silver"
+      },
+      {
+        "title": "Spire of Stars Prestige Raid World's First run (Xbox) – 7th",
+        "year": 2019,
+        "type": "Silver"
+      },
+      {
+        "title": "Eater of Worlds Prestige Raid World's First run (Xbox) – 8th",
+        "year": 2018,
+        "type": "Silver"
+      }
+    ]
+  },
+  {
+    "team": "AVR.PUBG",
+    "years": "2018–2021",
+    "awards": [
+      {
+        "title": "ESL PUBG Squad Premiership Division April",
+        "year": 2021,
+        "type": "Gold"
+      },
+      {
+        "title": "BEING ESPORTS PUBG Console League Season 1",
+        "year": 2021,
+        "type": "Gold"
+      },
+      {
+        "title": "ESL PUBG Squad Premiership Division June",
+        "year": 2021,
+        "type": "Gold"
+      }
+    ]
+  },
+  {
+    "team": "AVR.RainbowSix",
+    "years": "2016–2021",
+    "awards": [
+      {
+        "title": "chatolic.gc German Champions Series #4 Xbox",
+        "year": 2021,
+        "type": "Gold"
+      },
+      {
+        "title": "DeSBL Ultimate League Season #19",
+        "year": 2020,
+        "type": "Silver"
+      },
+      {
+        "title": "R6S Xbox Championships Season #2 (Finalist)",
+        "year": 2020,
+        "type": "Silver"
+      }
+    ]
+  }
+]

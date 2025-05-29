@@ -1,0 +1,392 @@
+{
+  "id": 1436,
+  "date": "2023-12-23T14:31:04",
+  "date_gmt": "2023-12-23T13:31:04",
+  "guid": {
+    "rendered": "https://avr-gaming.de/?p=1436"
+  },
+  "modified": "2023-12-23T14:31:05",
+  "modified_gmt": "2023-12-23T13:31:05",
+  "slug": "neue-teams-bei-r6",
+  "status": "publish",
+  "type": "post",
+  "link": "https://avr-gaming.de/neue-teams-bei-r6/",
+  "title": {
+    "rendered": "Neue Teams bei R6"
+  },
+  "content": {
+    "rendered": "\n<p>► Neue LineUps bei Rainbow Six</p>\n\n\n\n<p>Zum Jahresende freuen wir uns, dass wir den Rainbow Six Bereich, eine Kernsektion unseres Vereins, personell aufstocken können. Mit den \"Bursts of Fire\" (BoF) stoßen gleich zwei neue Teams - insgesamt 14 neue Mitglieder - zu uns.</p>\n\n\n\n<p>Zur Aufnahme sagt Sektionsleiter Henning aka AVR MagicMan:</p>\n\n\n\n<p>\"Mit <a></a>BoF gewinnen wir ambitionierte Spieler, die bereits eigens geschaffene Strukturen mitbringen. Wir sehen darin die Chance, unseren R6-Bereich zu erweitern und für 2024 zu rüsten. Bereits im ersten Gespräch überzeugte uns BoF durch ein selbstbewusstes Auftreten, realistische Zielvorstellungen und ein hohes Maß an Motivation.\"</p>\n\n\n\n<p>Wir freuen uns auf eine gute Zusammenarbeit!</p>\n\n\n\n<p>Trupp 1:<br></p>\n\n\n\n<p>BoF Passi<br>BoF Smoky<br>BoF Oreo<br>BoF Pryxzt<br>BoF JoyBoy<br>BoF NPC<br>BoF Lxnv</p>\n\n\n\n<p>Trupp 2:<br></p>\n\n\n\n<p>BoF Socke<br>BoF Vital<br>BoF Soap<br>BoF Patron<br>BoF 3Beine<br>BoF Dashyy<br>BoF FragRat</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>► Neue LineUps bei Rainbow Six Zum Jahresende freuen wir uns, dass wir den Rainbow Six Bereich, eine Kernsektion unseres Vereins, personell aufstocken können. Mit den \"Bursts of Fire\" (BoF) stoßen gleich zwei neue Teams - insgesamt 14 neue Mitglieder - zu uns. Zur Aufnahme sagt Sektionsleiter Henning aka AVR MagicMan: \"Mit BoF gewinnen wir [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 3,
+  "featured_media": 1437,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    14
+  ],
+  "tags": [],
+  "class_list": [
+    "post-1436",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-avr-rainbowsix"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1436",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/users/3"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=1436"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1436/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 1438,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1436/revisions/1438"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media/1437"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media?parent=1436"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/categories?post=1436"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/tags?post=1436"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  },
+  "_embedded": {
+    "author": [
+      {
+        "id": 3,
+        "name": "AVR-NEWS",
+        "url": "",
+        "description": "",
+        "link": "https://avr-gaming.de/author/avr-news/",
+        "slug": "avr-news",
+        "avatar_urls": {
+          "24": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=24&d=mm&r=g",
+          "48": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=48&d=mm&r=g",
+          "96": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=96&d=mm&r=g"
+        },
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/3",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "id": 1437,
+        "date": "2023-12-23T14:30:45",
+        "slug": "spielersuche24geteilt",
+        "type": "attachment",
+        "link": "https://avr-gaming.de/neue-teams-bei-r6/spielersuche24geteilt/",
+        "title": {
+          "rendered": "spielersuche24geteilt"
+        },
+        "author": 3,
+        "featured_media": 0,
+        "smush": {
+          "stats": {
+            "percent": 80.04403802813252,
+            "bytes": 1853964,
+            "size_before": 2316180,
+            "size_after": 462216,
+            "time": 4.01,
+            "api_version": "1.0",
+            "lossy": 1,
+            "keep_exif": 0
+          },
+          "sizes": {
+            "medium": {
+              "percent": 78.24,
+              "bytes": 77545,
+              "size_before": 99114,
+              "size_after": 21569,
+              "time": 0.11
+            },
+            "large": {
+              "percent": 80.83,
+              "bytes": 595442,
+              "size_before": 736662,
+              "size_after": 141220,
+              "time": 1.49
+            },
+            "thumbnail": {
+              "percent": 78.08,
+              "bytes": 24202,
+              "size_before": 30996,
+              "size_after": 6794,
+              "time": 0.04
+            },
+            "medium_large": {
+              "percent": 81.91,
+              "bytes": 383727,
+              "size_before": 468487,
+              "size_after": 84760,
+              "time": 0.92
+            },
+            "acf-gallery": {
+              "percent": 0,
+              "bytes": 0,
+              "size_before": 21569,
+              "size_after": 21569,
+              "time": 0.2
+            },
+            "full": {
+              "percent": 80.58,
+              "bytes": 773048,
+              "size_before": 959352,
+              "size_after": 186304,
+              "time": 1.25
+            }
+          },
+          "webp_flag": "2023/12/spielersuche24geteilt-300x300.png.webp"
+        },
+        "caption": {
+          "rendered": ""
+        },
+        "alt_text": "",
+        "media_type": "image",
+        "mime_type": "image/png",
+        "media_details": {
+          "width": 1200,
+          "height": 1200,
+          "file": "2023/12/spielersuche24geteilt.png",
+          "filesize": "959352",
+          "sizes": {
+            "medium": {
+              "file": "spielersuche24geteilt-300x300.png",
+              "width": 300,
+              "height": 300,
+              "filesize": "99114",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2023/12/spielersuche24geteilt-300x300.png"
+            },
+            "large": {
+              "file": "spielersuche24geteilt-1024x1024.png",
+              "width": 1024,
+              "height": 1024,
+              "filesize": "736662",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2023/12/spielersuche24geteilt-1024x1024.png"
+            },
+            "thumbnail": {
+              "file": "spielersuche24geteilt-150x150.png",
+              "width": 150,
+              "height": 150,
+              "filesize": "30996",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2023/12/spielersuche24geteilt-150x150.png"
+            },
+            "medium_large": {
+              "file": "spielersuche24geteilt-768x768.png",
+              "width": 768,
+              "height": 768,
+              "filesize": "468487",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2023/12/spielersuche24geteilt-768x768.png"
+            },
+            "acf-gallery": {
+              "file": "spielersuche24geteilt-300x300.png",
+              "width": 300,
+              "height": 300,
+              "filesize": "99114",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2023/12/spielersuche24geteilt-300x300.png"
+            },
+            "full": {
+              "file": "spielersuche24geteilt.png",
+              "width": 1200,
+              "height": 1200,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2023/12/spielersuche24geteilt.png"
+            }
+          },
+          "image_meta": {
+            "aperture": "0",
+            "credit": "",
+            "camera": "",
+            "caption": "",
+            "created_timestamp": "0",
+            "copyright": "",
+            "focal_length": "0",
+            "iso": "0",
+            "shutter_speed": "0",
+            "title": "",
+            "orientation": "0"
+          }
+        },
+        "source_url": "https://avr-gaming.de/wp-content/uploads/2023/12/spielersuche24geteilt.png",
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media/1437",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media"
+            }
+          ],
+          "about": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/types/attachment"
+            }
+          ],
+          "author": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/3"
+            }
+          ],
+          "replies": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=1437"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:term": [
+      [
+        {
+          "id": 14,
+          "link": "https://avr-gaming.de/category/avr-news/avr-rainbowsix/",
+          "name": "AVR.RainbowSix",
+          "slug": "avr-rainbowsix",
+          "taxonomy": "category",
+          "_links": {
+            "self": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories/14",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/taxonomies/category"
+              }
+            ],
+            "up": [
+              {
+                "embeddable": true,
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories/8"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/posts?categories=14"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        }
+      ],
+      []
+    ]
+  },
+  "localImage": "/blog/images/post-1436.png"
+}

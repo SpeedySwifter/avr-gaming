@@ -1,0 +1,386 @@
+{
+  "id": 1285,
+  "date": "2022-03-02T16:48:57",
+  "date_gmt": "2022-03-02T15:48:57",
+  "guid": {
+    "rendered": "https://avr-gaming.de/?p=1285"
+  },
+  "modified": "2022-03-02T16:48:59",
+  "modified_gmt": "2022-03-02T15:48:59",
+  "slug": "4-play4future-cup",
+  "status": "publish",
+  "type": "post",
+  "link": "https://avr-gaming.de/4-play4future-cup/",
+  "title": {
+    "rendered": "4. Play4Future Cup"
+  },
+  "content": {
+    "rendered": "\n<p>Der Play4Future-Cup stellt für AVR jährlich einen fixen Termin in Sachen FIFA dar. Das Charity-Event sammelt in diesem Jahr Spenden für den Verein für die Förderung krebskranker und körperbehinderter Kinder Ostbayern e.V. und findet am 11. März statt.<br><br>Wir beteiligen uns mit unserem Vereinskonto an dieser großartigen Aktion und bitten euch um eure Mithilfe - jeder Euro zählt. Wir würden uns freuen, wenn ihr eine kleine Spende auf unser PayPal-Konto (paypal@avr-gaming.de) überweist.<br><br>Das Geld wird 1:1 für den guten Zweck genutzt und an Play4Future im Rahmen des Events überwiesen.<br><br>Danke für eure Unterstützung!<br><br>Euer Team von<br>AVengeR Gaming e.V. und AVR.FIFA</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Der Play4Future-Cup stellt für AVR jährlich einen fixen Termin in Sachen FIFA dar. Das Charity-Event sammelt in diesem Jahr Spenden für den Verein für die Förderung krebskranker und körperbehinderter Kinder Ostbayern e.V. und findet am 11. März statt. Wir beteiligen uns mit unserem Vereinskonto an dieser großartigen Aktion und bitten euch um eure Mithilfe - [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 3,
+  "featured_media": 1286,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    13
+  ],
+  "tags": [],
+  "class_list": [
+    "post-1285",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-avr-fifa"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1285",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/users/3"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=1285"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1285/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 1287,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1285/revisions/1287"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media/1286"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media?parent=1285"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/categories?post=1285"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/tags?post=1285"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  },
+  "_embedded": {
+    "author": [
+      {
+        "id": 3,
+        "name": "AVR-NEWS",
+        "url": "",
+        "description": "",
+        "link": "https://avr-gaming.de/author/avr-news/",
+        "slug": "avr-news",
+        "avatar_urls": {
+          "24": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=24&d=mm&r=g",
+          "48": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=48&d=mm&r=g",
+          "96": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=96&d=mm&r=g"
+        },
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/3",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "id": 1286,
+        "date": "2022-03-02T16:48:33",
+        "slug": "play4future",
+        "type": "attachment",
+        "link": "https://avr-gaming.de/4-play4future-cup/play4future/",
+        "title": {
+          "rendered": "play4future"
+        },
+        "author": 3,
+        "featured_media": 0,
+        "smush": {
+          "stats": {
+            "percent": 7.098718022400212,
+            "bytes": 203801,
+            "size_before": 2870955,
+            "size_after": 2667154,
+            "time": 7.24,
+            "api_version": "1.0",
+            "lossy": false,
+            "keep_exif": 0
+          },
+          "sizes": {
+            "medium": {
+              "percent": 0,
+              "bytes": 0,
+              "size_before": 126802,
+              "size_after": 126802,
+              "time": 0.14
+            },
+            "large": {
+              "percent": 0,
+              "bytes": 0,
+              "size_before": 1016675,
+              "size_after": 1016675,
+              "time": 1.87
+            },
+            "thumbnail": {
+              "percent": 0,
+              "bytes": 0,
+              "size_before": 39581,
+              "size_after": 39581,
+              "time": 0.06
+            },
+            "medium_large": {
+              "percent": 0,
+              "bytes": 0,
+              "size_before": 638311,
+              "size_after": 638311,
+              "time": 0.93
+            },
+            "acf-gallery": {
+              "percent": 0,
+              "bytes": 0,
+              "size_before": 126802,
+              "size_after": 126802,
+              "time": 0.66
+            },
+            "full": {
+              "percent": 22.09,
+              "bytes": 203801,
+              "size_before": 922784,
+              "size_after": 718983,
+              "time": 3.58
+            }
+          },
+          "webp_flag": "2022/03/play4future-300x300.png.webp"
+        },
+        "caption": {
+          "rendered": ""
+        },
+        "alt_text": "",
+        "media_type": "image",
+        "mime_type": "image/png",
+        "media_details": {
+          "width": 1200,
+          "height": 1200,
+          "file": "2022/03/play4future.png",
+          "sizes": {
+            "medium": {
+              "file": "play4future-300x300.png",
+              "width": 300,
+              "height": 300,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/03/play4future-300x300.png"
+            },
+            "large": {
+              "file": "play4future-1024x1024.png",
+              "width": 1024,
+              "height": 1024,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/03/play4future-1024x1024.png"
+            },
+            "thumbnail": {
+              "file": "play4future-150x150.png",
+              "width": 150,
+              "height": 150,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/03/play4future-150x150.png"
+            },
+            "medium_large": {
+              "file": "play4future-768x768.png",
+              "width": 768,
+              "height": 768,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/03/play4future-768x768.png"
+            },
+            "acf-gallery": {
+              "file": "play4future-300x300.png",
+              "width": 300,
+              "height": 300,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/03/play4future-300x300.png"
+            },
+            "full": {
+              "file": "play4future.png",
+              "width": 1200,
+              "height": 1200,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/03/play4future.png"
+            }
+          },
+          "image_meta": {
+            "aperture": "0",
+            "credit": "",
+            "camera": "",
+            "caption": "",
+            "created_timestamp": "0",
+            "copyright": "",
+            "focal_length": "0",
+            "iso": "0",
+            "shutter_speed": "0",
+            "title": "",
+            "orientation": "0"
+          }
+        },
+        "source_url": "https://avr-gaming.de/wp-content/uploads/2022/03/play4future.png",
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media/1286",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media"
+            }
+          ],
+          "about": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/types/attachment"
+            }
+          ],
+          "author": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/3"
+            }
+          ],
+          "replies": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=1286"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:term": [
+      [
+        {
+          "id": 13,
+          "link": "https://avr-gaming.de/category/avr-news/avr-fifa/",
+          "name": "AVR.FIFA",
+          "slug": "avr-fifa",
+          "taxonomy": "category",
+          "_links": {
+            "self": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories/13",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/taxonomies/category"
+              }
+            ],
+            "up": [
+              {
+                "embeddable": true,
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories/8"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/posts?categories=13"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        }
+      ],
+      []
+    ]
+  },
+  "localImage": "/blog/images/post-1285.png"
+}

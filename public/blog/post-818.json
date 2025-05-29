@@ -1,0 +1,375 @@
+{
+  "id": 818,
+  "date": "2021-03-02T03:31:00",
+  "date_gmt": "2021-03-02T02:31:00",
+  "guid": {
+    "rendered": "https://avr-gaming.de/?p=818"
+  },
+  "modified": "2021-04-09T23:49:46",
+  "modified_gmt": "2021-04-09T21:49:46",
+  "slug": "avrmoments-teamwear",
+  "status": "publish",
+  "type": "post",
+  "link": "https://avr-gaming.de/avrmoments-teamwear/",
+  "title": {
+    "rendered": "#AVRmoments: Teamwear"
+  },
+  "content": {
+    "rendered": "\n<p>Jeder Anfang braucht ein gutes Konzept... oder irgendein Konzept<img decoding=\"async\" height=\"16\" width=\"16\" alt=\"😅\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tf2/2/16/1f605.png\"></p>\n\n\n\n<p><a href=\"https://www.facebook.com/hashtag/avr?__eep__=6&amp;__tn__=*NK*F\">#AVR</a><a href=\"https://www.facebook.com/hashtag/avrarmy?__eep__=6&amp;__tn__=*NK*F\">#avrarmy</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Jeder Anfang braucht ein gutes Konzept... oder irgendein Konzept</p>\n",
+    "protected": false
+  },
+  "author": 3,
+  "featured_media": 819,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    8
+  ],
+  "tags": [],
+  "class_list": [
+    "post-818",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-avr-news"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/818",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/users/3"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=818"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/818/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media/819"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media?parent=818"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/categories?post=818"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/tags?post=818"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  },
+  "_embedded": {
+    "author": [
+      {
+        "id": 3,
+        "name": "AVR-NEWS",
+        "url": "",
+        "description": "",
+        "link": "https://avr-gaming.de/author/avr-news/",
+        "slug": "avr-news",
+        "avatar_urls": {
+          "24": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=24&d=mm&r=g",
+          "48": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=48&d=mm&r=g",
+          "96": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=96&d=mm&r=g"
+        },
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/3",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "id": 819,
+        "date": "2021-03-27T03:32:11",
+        "slug": "156135189_3724873814262861_1635815214369102847_o",
+        "type": "attachment",
+        "link": "https://avr-gaming.de/avrmoments-teamwear/156135189_3724873814262861_1635815214369102847_o/",
+        "title": {
+          "rendered": "156135189_3724873814262861_1635815214369102847_o"
+        },
+        "author": 1,
+        "featured_media": 0,
+        "smush": {
+          "stats": {
+            "percent": 26.520669760376624,
+            "bytes": 358957,
+            "size_before": 1353499,
+            "size_after": 994542,
+            "time": 7.52,
+            "api_version": "1.0",
+            "lossy": false,
+            "keep_exif": 0
+          },
+          "sizes": {
+            "medium": {
+              "percent": 7.09,
+              "bytes": 4886,
+              "size_before": 68961,
+              "size_after": 64075,
+              "time": 0.95
+            },
+            "large": {
+              "percent": 0,
+              "bytes": 0,
+              "size_before": 434603,
+              "size_after": 434603,
+              "time": 3.47
+            },
+            "thumbnail": {
+              "percent": 7.98,
+              "bytes": 1888,
+              "size_before": 23654,
+              "size_after": 21766,
+              "time": 0.35
+            },
+            "medium_large": {
+              "percent": 0.6,
+              "bytes": 1703,
+              "size_before": 282487,
+              "size_after": 280784,
+              "time": 1.49
+            },
+            "acf-gallery": {
+              "percent": 0,
+              "bytes": 0,
+              "size_before": 64075,
+              "size_after": 64075,
+              "time": 1.16
+            },
+            "full": {
+              "percent": 73.1,
+              "bytes": 350480,
+              "size_before": 479719,
+              "size_after": 129239,
+              "time": 0.1
+            }
+          },
+          "webp_flag": "2021/03/156135189_3724873814262861_1635815214369102847_o-300x300.png.webp"
+        },
+        "caption": {
+          "rendered": ""
+        },
+        "alt_text": "",
+        "media_type": "image",
+        "mime_type": "image/jpeg",
+        "media_details": {
+          "width": 1200,
+          "height": 1200,
+          "file": "2021/03/156135189_3724873814262861_1635815214369102847_o.jpg",
+          "sizes": {
+            "medium": {
+              "file": "156135189_3724873814262861_1635815214369102847_o-300x300.png",
+              "width": 300,
+              "height": 300,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/156135189_3724873814262861_1635815214369102847_o-300x300.png"
+            },
+            "large": {
+              "file": "156135189_3724873814262861_1635815214369102847_o-1024x1024.png",
+              "width": 1024,
+              "height": 1024,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/156135189_3724873814262861_1635815214369102847_o-1024x1024.png"
+            },
+            "thumbnail": {
+              "file": "156135189_3724873814262861_1635815214369102847_o-150x150.png",
+              "width": 150,
+              "height": 150,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/156135189_3724873814262861_1635815214369102847_o-150x150.png"
+            },
+            "medium_large": {
+              "file": "156135189_3724873814262861_1635815214369102847_o-768x768.png",
+              "width": 768,
+              "height": 768,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/156135189_3724873814262861_1635815214369102847_o-768x768.png"
+            },
+            "acf-gallery": {
+              "file": "156135189_3724873814262861_1635815214369102847_o-300x300.png",
+              "width": 300,
+              "height": 300,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/156135189_3724873814262861_1635815214369102847_o-300x300.png"
+            },
+            "full": {
+              "file": "156135189_3724873814262861_1635815214369102847_o.jpg",
+              "width": 1200,
+              "height": 1200,
+              "mime_type": "image/jpeg",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/156135189_3724873814262861_1635815214369102847_o.jpg"
+            }
+          },
+          "image_meta": {
+            "aperture": "0",
+            "credit": "",
+            "camera": "",
+            "caption": "",
+            "created_timestamp": "0",
+            "copyright": "",
+            "focal_length": "0",
+            "iso": "0",
+            "shutter_speed": "0",
+            "title": "",
+            "orientation": "0",
+            "keywords": []
+          }
+        },
+        "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/156135189_3724873814262861_1635815214369102847_o.jpg",
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media/819",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media"
+            }
+          ],
+          "about": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/types/attachment"
+            }
+          ],
+          "author": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/1"
+            }
+          ],
+          "replies": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=819"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:term": [
+      [
+        {
+          "id": 8,
+          "link": "https://avr-gaming.de/category/avr-news/",
+          "name": "AVR-NEWS",
+          "slug": "avr-news",
+          "taxonomy": "category",
+          "_links": {
+            "self": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories/8",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/taxonomies/category"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/posts?categories=8"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        }
+      ],
+      []
+    ]
+  },
+  "localImage": "/blog/images/post-818.jpg"
+}

@@ -1,0 +1,375 @@
+{
+  "id": 821,
+  "date": "2021-03-01T03:32:00",
+  "date_gmt": "2021-03-01T02:32:00",
+  "guid": {
+    "rendered": "https://avr-gaming.de/?p=821"
+  },
+  "modified": "2021-04-09T23:49:56",
+  "modified_gmt": "2021-04-09T21:49:56",
+  "slug": "avr-ist-esl-februarmeister%f0%9f%8f%86%f0%9f%a5%87",
+  "status": "publish",
+  "type": "post",
+  "link": "https://avr-gaming.de/avr-ist-esl-februarmeister%f0%9f%8f%86%f0%9f%a5%87/",
+  "title": {
+    "rendered": "AVR ist ESL-Februarmeister🏆🥇"
+  },
+  "content": {
+    "rendered": "\n<p>Am gestrigen Sonntag wurde AVR.PUBG zum neunten Mal Champion in der ESL Premiership Division. Mit 161 Punkten (davon 108 Kills) sicherte sich das Team den Titel nach vier Spieltagen mit einem deutlichen Vorsprung<img decoding=\"async\" height=\"16\" width=\"16\" alt=\"🔥\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tef/2/16/1f525.png\"></p>\n\n\n\n<p>Top3-Ranking:<br><img decoding=\"async\" height=\"16\" width=\"16\" alt=\"🥇\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t33/2/16/1f947.png\"><img decoding=\"async\" height=\"16\" width=\"16\" alt=\"🇩🇪\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t75/2/16/1f1e9_1f1ea.png\">&nbsp;AVengeR Gaming e.V. (161 Pts.)<br><img decoding=\"async\" height=\"16\" width=\"16\" alt=\"🥈\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tb4/2/16/1f948.png\"><img decoding=\"async\" height=\"16\" width=\"16\" alt=\"🇫🇷\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/td3/2/16/1f1eb_1f1f7.png\">&nbsp;RusT CLAN (105 Pts.)<br><img decoding=\"async\" height=\"16\" width=\"16\" alt=\"🥉\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t35/2/16/1f949.png\"><img decoding=\"async\" height=\"16\" width=\"16\" alt=\"🇸🇪\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t13/2/16/1f1f8_1f1ea.png\">&nbsp;AiM (100 Pts.)</p>\n\n\n\n<p>Die Premiership Division ist das höhere der beiden ESL-Formate und findet monatlich mit 16 Teilnehmern statt.</p>\n\n\n\n<p>Related League:<br><a href=\"https://www.facebook.com/ESLPUBG/?__tn__=kK*F\">ESL PUBG</a></p>\n\n\n\n<p><a href=\"https://www.facebook.com/hashtag/avr?__eep__=6&amp;__tn__=*NK*F\">#avr</a><a href=\"https://www.facebook.com/hashtag/avrarmy?__eep__=6&amp;__tn__=*NK*F\">#avrarmy</a><a href=\"https://www.facebook.com/hashtag/pubg?__eep__=6&amp;__tn__=*NK*F\">#pubg</a><br>___________________________________<br>AVengeR Gaming e.V. wird unterstützt von<br><a href=\"https://www.facebook.com/gainmagazin/?__tn__=kK*F\">GAIN - Das unabhängige Magazin für Spielekultur</a><br><a href=\"https://www.facebook.com/lootchest.de/?__tn__=kK*F\">Lootchest</a><br><a href=\"https://www.facebook.com/beRARE.MEDIA/?__tn__=kK*F\">Berare.media</a><br><a href=\"https://www.facebook.com/overpoweredeurope/?__tn__=kK*F\">Overpowered-Europe</a><br><a href=\"https://www.facebook.com/GameTown.host/?__tn__=kK*F\">GameTown.host</a><br><a href=\"https://www.facebook.com/owayo/?__tn__=kK*F\">owayo</a></p>\n\n\n\n<p>AVengeR Gaming e.V. ist organisert im&nbsp;<a href=\"https://www.facebook.com/esportbund/?__tn__=kK*F\">ESBD - eSport-Bund Deutschland</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Am gestrigen Sonntag wurde AVR.PUBG zum neunten Mal Champion in der ESL Premiership Division. Mit 161 Punkten (davon 108 Kills) sicherte sich das Team den Titel nach vier Spieltagen mit einem deutlichen Vorsprung</p>\n",
+    "protected": false
+  },
+  "author": 3,
+  "featured_media": 822,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    8
+  ],
+  "tags": [],
+  "class_list": [
+    "post-821",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-avr-news"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/821",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/users/3"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=821"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/821/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media/822"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media?parent=821"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/categories?post=821"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/tags?post=821"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  },
+  "_embedded": {
+    "author": [
+      {
+        "id": 3,
+        "name": "AVR-NEWS",
+        "url": "",
+        "description": "",
+        "link": "https://avr-gaming.de/author/avr-news/",
+        "slug": "avr-news",
+        "avatar_urls": {
+          "24": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=24&d=mm&r=g",
+          "48": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=48&d=mm&r=g",
+          "96": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=96&d=mm&r=g"
+        },
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/3",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "id": 822,
+        "date": "2021-03-27T03:33:28",
+        "slug": "155312575_3722115094538733_1177559879002655845_o",
+        "type": "attachment",
+        "link": "https://avr-gaming.de/avr-ist-esl-februarmeister%f0%9f%8f%86%f0%9f%a5%87/155312575_3722115094538733_1177559879002655845_o/",
+        "title": {
+          "rendered": "155312575_3722115094538733_1177559879002655845_o"
+        },
+        "author": 1,
+        "featured_media": 0,
+        "smush": {
+          "stats": {
+            "percent": 31.510450028540394,
+            "bytes": 831361,
+            "size_before": 2638366,
+            "size_after": 1807005,
+            "time": 11.019999999999998,
+            "api_version": "1.0",
+            "lossy": false,
+            "keep_exif": 0
+          },
+          "sizes": {
+            "medium": {
+              "percent": 0,
+              "bytes": 0,
+              "size_before": 103428,
+              "size_after": 103428,
+              "time": 0.21
+            },
+            "large": {
+              "percent": 0,
+              "bytes": 0,
+              "size_before": 891978,
+              "size_after": 891978,
+              "time": 5.64
+            },
+            "thumbnail": {
+              "percent": 0,
+              "bytes": 0,
+              "size_before": 33251,
+              "size_after": 33251,
+              "time": 0.16
+            },
+            "medium_large": {
+              "percent": 0,
+              "bytes": 0,
+              "size_before": 530172,
+              "size_after": 530172,
+              "time": 3.96
+            },
+            "acf-gallery": {
+              "percent": 0,
+              "bytes": 0,
+              "size_before": 103428,
+              "size_after": 103428,
+              "time": 0.53
+            },
+            "full": {
+              "percent": 85.2,
+              "bytes": 831361,
+              "size_before": 976109,
+              "size_after": 144748,
+              "time": 0.52
+            }
+          },
+          "webp_flag": "2021/03/155312575_3722115094538733_1177559879002655845_o-300x300.png.webp"
+        },
+        "caption": {
+          "rendered": ""
+        },
+        "alt_text": "",
+        "media_type": "image",
+        "mime_type": "image/jpeg",
+        "media_details": {
+          "width": 1200,
+          "height": 1200,
+          "file": "2021/03/155312575_3722115094538733_1177559879002655845_o.jpg",
+          "sizes": {
+            "medium": {
+              "file": "155312575_3722115094538733_1177559879002655845_o-300x300.png",
+              "width": 300,
+              "height": 300,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/155312575_3722115094538733_1177559879002655845_o-300x300.png"
+            },
+            "large": {
+              "file": "155312575_3722115094538733_1177559879002655845_o-1024x1024.png",
+              "width": 1024,
+              "height": 1024,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/155312575_3722115094538733_1177559879002655845_o-1024x1024.png"
+            },
+            "thumbnail": {
+              "file": "155312575_3722115094538733_1177559879002655845_o-150x150.png",
+              "width": 150,
+              "height": 150,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/155312575_3722115094538733_1177559879002655845_o-150x150.png"
+            },
+            "medium_large": {
+              "file": "155312575_3722115094538733_1177559879002655845_o-768x768.png",
+              "width": 768,
+              "height": 768,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/155312575_3722115094538733_1177559879002655845_o-768x768.png"
+            },
+            "acf-gallery": {
+              "file": "155312575_3722115094538733_1177559879002655845_o-300x300.png",
+              "width": 300,
+              "height": 300,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/155312575_3722115094538733_1177559879002655845_o-300x300.png"
+            },
+            "full": {
+              "file": "155312575_3722115094538733_1177559879002655845_o.jpg",
+              "width": 1200,
+              "height": 1200,
+              "mime_type": "image/jpeg",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/155312575_3722115094538733_1177559879002655845_o.jpg"
+            }
+          },
+          "image_meta": {
+            "aperture": "0",
+            "credit": "",
+            "camera": "",
+            "caption": "",
+            "created_timestamp": "0",
+            "copyright": "",
+            "focal_length": "0",
+            "iso": "0",
+            "shutter_speed": "0",
+            "title": "",
+            "orientation": "0",
+            "keywords": []
+          }
+        },
+        "source_url": "https://avr-gaming.de/wp-content/uploads/2021/03/155312575_3722115094538733_1177559879002655845_o.jpg",
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media/822",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media"
+            }
+          ],
+          "about": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/types/attachment"
+            }
+          ],
+          "author": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/1"
+            }
+          ],
+          "replies": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=822"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:term": [
+      [
+        {
+          "id": 8,
+          "link": "https://avr-gaming.de/category/avr-news/",
+          "name": "AVR-NEWS",
+          "slug": "avr-news",
+          "taxonomy": "category",
+          "_links": {
+            "self": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories/8",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/taxonomies/category"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/posts?categories=8"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        }
+      ],
+      []
+    ]
+  },
+  "localImage": "/blog/images/post-821.jpg"
+}

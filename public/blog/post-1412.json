@@ -1,0 +1,392 @@
+{
+  "id": 1412,
+  "date": "2023-03-06T13:46:31",
+  "date_gmt": "2023-03-06T12:46:31",
+  "guid": {
+    "rendered": "https://avr-gaming.de/?p=1412"
+  },
+  "modified": "2023-03-06T13:46:31",
+  "modified_gmt": "2023-03-06T12:46:31",
+  "slug": "r6-playoffs",
+  "status": "publish",
+  "type": "post",
+  "link": "https://avr-gaming.de/r6-playoffs/",
+  "title": {
+    "rendered": "R6: PLAYOFFS!!!"
+  },
+  "content": {
+    "rendered": "\n<p>Wenn schon die Qualifikation ein nicht alltäglicher Erfolg ist, kann der Weg nur lang und steinig gewesen sein: Die ebattle-Masters bei Rainbow Six stehen nach monatelangem Punktesammeln, Turnieren und unzähligen Top-Level-Matches vor der Tür und wir sind als eines der besten acht Teams der Konsole mit dabei.</p>\n\n\n\n<p>Am vergangenen Wochenende fand die Gruppenphase in Vorbereitung eines der größten Turniere des Jahres statt. Die besten 32 Teams, 16 von der Xbox und 16 von der Playstation, trafen aufeinander. AVR.Rainbow hatte sich mit dem zweiten Platz in der XBOX Masters Tabelle hierfür qualifiziert (wir berichteten). In Gruppe B konnte sich unser Team den zweiten Platz mit folgenden Ergebnissen sichern:</p>\n\n\n\n<p>- Entropy Gaming: 0:2 (4:7 ; 5:7)<br>- Necro Gaming e.V. Team Smoke: 2:0 (7:4 ; 7:1)<br>- Team A1MLESS e-Sports: 2:0 (7:3 ; 7:4)</p>\n\n\n\n<p>Zum Turnier:<br><a href=\"https://www.ebattle.gg/turnier/864_ebattle_MASTERS_PSXbox_Crossplay__Gruppenphase\">https://www.ebattle.gg/turnier/864_ebattle_MASTERS_PSXbox_Crossplay__Gruppenphase</a></p>\n\n\n\n<p>Im Anschluss an die Gruppenphase fand eine KO-Runde statt, in der die Gruppensieger auf die Gruppen-Zweiten trafen. Für unser Team stand mit Nameless der Sieger aus Gruppe G an. Dieses Match wurde bis zur letzten Minute spannend ausgespielt und wir konnten uns schließlich mit 2:1 (7:3 ; 2:7 ; 8:6) durchsetzen. Ein großes G-G an die Gegner für faire und gute Matches.</p>\n\n\n\n<p>Zum Turnier:<br><a href=\"https://www.ebattle.gg/turnier/873_ebattle_MASTERS_PSXbox_Crossplay__PlayoffVorrunde\">https://www.ebattle.gg/turnier/873_ebattle_MASTERS_PSXbox_Crossplay__PlayoffVorrunde</a></p>\n\n\n\n<p>Hierdurch ist AVR.Rainbow nun nächstes Wochenende bei den Playoffs der ebattle Masters 1 von 8 Teams, die um den begehrten Titel kämpfen. Gerade einmal ein weiteres Team der Xbox konnte die Qualifikation schaffen, wodurch wir besonders stolz sind, die Xbox-Fahne im Turnier hochhalten zu dürfen.</p>\n\n\n\n<p>Wir sind sehr zufrieden mit der Leistung des Teams, gerade in Anbetracht der Tatsache, dass es quasi ein komplett neues Lineup war, was sich direkt sehr erfolgreich gegen schon lange etablierte Teams durchsetzen bzw. ihnen die Stirn bieten konnte.</p>\n\n\n\n<p>Lineup:<br>- [AVR] STeaLTH Se7en<br>- [AVR] qzVeroxity<br>- [AVR] Kyzebio<br>- [AVR] Keznc<br>- [AVR] Human</p>\n\n\n\n<p>Zum Turnier:<br><a href=\"https://www.ebattle.gg/turnier/865_ebattle_MASTERS_PSXbox_Crossplay__Playoff\">https://www.ebattle.gg/turnier/865_ebattle_MASTERS_PSXbox_Crossplay__Playoff</a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Wenn schon die Qualifikation ein nicht alltäglicher Erfolg ist, kann der Weg nur lang und steinig gewesen sein: Die ebattle-Masters bei Rainbow Six stehen nach monatelangem Punktesammeln, Turnieren und unzähligen Top-Level-Matches vor der Tür und wir sind als eines der besten acht Teams der Konsole mit dabei. Am vergangenen Wochenende fand die Gruppenphase in Vorbereitung [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 3,
+  "featured_media": 1413,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    14
+  ],
+  "tags": [],
+  "class_list": [
+    "post-1412",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-avr-rainbowsix"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1412",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/users/3"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=1412"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1412/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 1414,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1412/revisions/1414"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media/1413"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media?parent=1412"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/categories?post=1412"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/tags?post=1412"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  },
+  "_embedded": {
+    "author": [
+      {
+        "id": 3,
+        "name": "AVR-NEWS",
+        "url": "",
+        "description": "",
+        "link": "https://avr-gaming.de/author/avr-news/",
+        "slug": "avr-news",
+        "avatar_urls": {
+          "24": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=24&d=mm&r=g",
+          "48": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=48&d=mm&r=g",
+          "96": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=96&d=mm&r=g"
+        },
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/3",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "id": 1413,
+        "date": "2023-03-06T13:46:15",
+        "slug": "mastersebattle",
+        "type": "attachment",
+        "link": "https://avr-gaming.de/r6-playoffs/mastersebattle/",
+        "title": {
+          "rendered": "mastersebattle"
+        },
+        "author": 3,
+        "featured_media": 0,
+        "smush": {
+          "stats": {
+            "percent": 80.81520640746699,
+            "bytes": 2183302,
+            "size_before": 2701598,
+            "size_after": 518296,
+            "time": 6.289999999999999,
+            "api_version": "1.0",
+            "lossy": true,
+            "keep_exif": 0
+          },
+          "sizes": {
+            "medium": {
+              "percent": 80.28,
+              "bytes": 88545,
+              "size_before": 110302,
+              "size_after": 21757,
+              "time": 0.13
+            },
+            "large": {
+              "percent": 82.7,
+              "bytes": 771895,
+              "size_before": 933419,
+              "size_after": 161524,
+              "time": 3.4
+            },
+            "thumbnail": {
+              "percent": 77.11,
+              "bytes": 26480,
+              "size_before": 34340,
+              "size_after": 7860,
+              "time": 0.03
+            },
+            "medium_large": {
+              "percent": 82.28,
+              "bytes": 464834,
+              "size_before": 564941,
+              "size_after": 100107,
+              "time": 0.73
+            },
+            "acf-gallery": {
+              "percent": 0,
+              "bytes": 0,
+              "size_before": 21757,
+              "size_after": 21757,
+              "time": 0.08
+            },
+            "full": {
+              "percent": 80.2,
+              "bytes": 831548,
+              "size_before": 1036839,
+              "size_after": 205291,
+              "time": 1.92
+            }
+          },
+          "webp_flag": "2023/03/mastersebattle-300x300.png.webp"
+        },
+        "caption": {
+          "rendered": ""
+        },
+        "alt_text": "",
+        "media_type": "image",
+        "mime_type": "image/png",
+        "media_details": {
+          "width": 1200,
+          "height": 1200,
+          "file": "2023/03/mastersebattle.png",
+          "filesize": "1036839",
+          "sizes": {
+            "medium": {
+              "file": "mastersebattle-300x300.png",
+              "width": 300,
+              "height": 300,
+              "filesize": "110302",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2023/03/mastersebattle-300x300.png"
+            },
+            "large": {
+              "file": "mastersebattle-1024x1024.png",
+              "width": 1024,
+              "height": 1024,
+              "filesize": "933419",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2023/03/mastersebattle-1024x1024.png"
+            },
+            "thumbnail": {
+              "file": "mastersebattle-150x150.png",
+              "width": 150,
+              "height": 150,
+              "filesize": "34340",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2023/03/mastersebattle-150x150.png"
+            },
+            "medium_large": {
+              "file": "mastersebattle-768x768.png",
+              "width": 768,
+              "height": 768,
+              "filesize": "564941",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2023/03/mastersebattle-768x768.png"
+            },
+            "acf-gallery": {
+              "file": "mastersebattle-300x300.png",
+              "width": 300,
+              "height": 300,
+              "filesize": "110302",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2023/03/mastersebattle-300x300.png"
+            },
+            "full": {
+              "file": "mastersebattle.png",
+              "width": 1200,
+              "height": 1200,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2023/03/mastersebattle.png"
+            }
+          },
+          "image_meta": {
+            "aperture": "0",
+            "credit": "",
+            "camera": "",
+            "caption": "",
+            "created_timestamp": "0",
+            "copyright": "",
+            "focal_length": "0",
+            "iso": "0",
+            "shutter_speed": "0",
+            "title": "",
+            "orientation": "0"
+          }
+        },
+        "source_url": "https://avr-gaming.de/wp-content/uploads/2023/03/mastersebattle.png",
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media/1413",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media"
+            }
+          ],
+          "about": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/types/attachment"
+            }
+          ],
+          "author": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/3"
+            }
+          ],
+          "replies": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=1413"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:term": [
+      [
+        {
+          "id": 14,
+          "link": "https://avr-gaming.de/category/avr-news/avr-rainbowsix/",
+          "name": "AVR.RainbowSix",
+          "slug": "avr-rainbowsix",
+          "taxonomy": "category",
+          "_links": {
+            "self": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories/14",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/taxonomies/category"
+              }
+            ],
+            "up": [
+              {
+                "embeddable": true,
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories/8"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/posts?categories=14"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        }
+      ],
+      []
+    ]
+  },
+  "localImage": "/blog/images/post-1412.png"
+}

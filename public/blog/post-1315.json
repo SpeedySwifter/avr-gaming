@@ -1,0 +1,392 @@
+{
+  "id": 1315,
+  "date": "2022-07-16T16:55:15",
+  "date_gmt": "2022-07-16T14:55:15",
+  "guid": {
+    "rendered": "https://avr-gaming.de/?p=1315"
+  },
+  "modified": "2022-07-16T16:55:18",
+  "modified_gmt": "2022-07-16T14:55:18",
+  "slug": "desbl-mit-gold-und-bronze",
+  "status": "publish",
+  "type": "post",
+  "link": "https://avr-gaming.de/desbl-mit-gold-und-bronze/",
+  "title": {
+    "rendered": "DeSBL mit Gold und Bronze"
+  },
+  "content": {
+    "rendered": "\n<p>Unser RainbowSix-LineUp für die Deutsche eSport Bundesliga konnte sich gestern den 5. DeSBL Pokal sichern. Dabei setzten sich AVR R4VIEL und co. om KO-Format gegen 24 weitere Teilnehmer durch und gewannen im Finale 2:1 gegen Titanium.</p>\n\n\n\n<p>Zum Turnierbaum:</p>\n\n\n\n<p><a href=\"https://desbl.de/index.php?public/&amp;site=cups&amp;cid=1152\">https://desbl.de/index.php?public/&amp;site=cups&amp;cid=1152</a></p>\n\n\n\n<p>Bereits in den vergangenen Wochen erspielten sich die Jungs einen soliden dritten Platz in der 22. Auflage der Ultimate League, dem höchsten Ligaformat der DeSBL.</p>\n\n\n\n<p>Zur Tabelle:</p>\n\n\n\n<p><a href=\"https://desbl.de/index.php?public/&amp;site=showseason&amp;sid=3434\">https://desbl.de/index.php?public/&amp;site=showseason&amp;sid=3434</a></p>\n\n\n\n<p>Insgesamt kann das Team auf erfolgreiche Wochen zurückschauen und sich aus einer selbstbewussten Position auf kommende Herausforderungen vorbereiten.</p>\n\n\n\n<p>#rainbowsixsiege #AVR #avrarmy #gaming #xbox #esports #desbl</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Unser RainbowSix-LineUp für die Deutsche eSport Bundesliga konnte sich gestern den 5. DeSBL Pokal sichern. Dabei setzten sich AVR R4VIEL und co. om KO-Format gegen 24 weitere Teilnehmer durch und gewannen im Finale 2:1 gegen Titanium. Zum Turnierbaum: https://desbl.de/index.php?public/&amp;site=cups&amp;cid=1152 Bereits in den vergangenen Wochen erspielten sich die Jungs einen soliden dritten Platz in der 22. [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 3,
+  "featured_media": 1316,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    14
+  ],
+  "tags": [],
+  "class_list": [
+    "post-1315",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-avr-rainbowsix"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1315",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/users/3"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=1315"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1315/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 1317,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1315/revisions/1317"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media/1316"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media?parent=1315"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/categories?post=1315"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/tags?post=1315"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  },
+  "_embedded": {
+    "author": [
+      {
+        "id": 3,
+        "name": "AVR-NEWS",
+        "url": "",
+        "description": "",
+        "link": "https://avr-gaming.de/author/avr-news/",
+        "slug": "avr-news",
+        "avatar_urls": {
+          "24": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=24&d=mm&r=g",
+          "48": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=48&d=mm&r=g",
+          "96": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=96&d=mm&r=g"
+        },
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/3",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "id": 1316,
+        "date": "2022-07-16T16:54:55",
+        "slug": "cupwinr62",
+        "type": "attachment",
+        "link": "https://avr-gaming.de/desbl-mit-gold-und-bronze/cupwinr62/",
+        "title": {
+          "rendered": "cupwinr62"
+        },
+        "author": 3,
+        "featured_media": 0,
+        "smush": {
+          "stats": {
+            "percent": 76.65027713364151,
+            "bytes": 2265901,
+            "size_before": 2956155,
+            "size_after": 690254,
+            "time": 5.1899999999999995,
+            "api_version": "1.0",
+            "lossy": true,
+            "keep_exif": 0
+          },
+          "sizes": {
+            "medium": {
+              "percent": 79.89,
+              "bytes": 107463,
+              "size_before": 134517,
+              "size_after": 27054,
+              "time": 0.14
+            },
+            "large": {
+              "percent": 82.02,
+              "bytes": 912948,
+              "size_before": 1113073,
+              "size_after": 200125,
+              "time": 2.17
+            },
+            "thumbnail": {
+              "percent": 75.12,
+              "bytes": 31403,
+              "size_before": 41806,
+              "size_after": 10403,
+              "time": 0.13
+            },
+            "medium_large": {
+              "percent": 80.67,
+              "bytes": 555268,
+              "size_before": 688306,
+              "size_after": 133038,
+              "time": 0.96
+            },
+            "acf-gallery": {
+              "percent": 0,
+              "bytes": 0,
+              "size_before": 27054,
+              "size_after": 27054,
+              "time": 0.24
+            },
+            "full": {
+              "percent": 69.25,
+              "bytes": 658819,
+              "size_before": 951399,
+              "size_after": 292580,
+              "time": 1.55
+            }
+          },
+          "webp_flag": "2022/07/cupwinr62-300x300.png.webp"
+        },
+        "caption": {
+          "rendered": ""
+        },
+        "alt_text": "cupwinr62",
+        "media_type": "image",
+        "mime_type": "image/png",
+        "media_details": {
+          "width": 1200,
+          "height": 1200,
+          "file": "2022/07/cupwinr62.png",
+          "filesize": "951399",
+          "sizes": {
+            "medium": {
+              "file": "cupwinr62-300x300.png",
+              "width": 300,
+              "height": 300,
+              "filesize": "134517",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/07/cupwinr62-300x300.png"
+            },
+            "large": {
+              "file": "cupwinr62-1024x1024.png",
+              "width": 1024,
+              "height": 1024,
+              "filesize": "1113073",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/07/cupwinr62-1024x1024.png"
+            },
+            "thumbnail": {
+              "file": "cupwinr62-150x150.png",
+              "width": 150,
+              "height": 150,
+              "filesize": "41806",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/07/cupwinr62-150x150.png"
+            },
+            "medium_large": {
+              "file": "cupwinr62-768x768.png",
+              "width": 768,
+              "height": 768,
+              "filesize": "688306",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/07/cupwinr62-768x768.png"
+            },
+            "acf-gallery": {
+              "file": "cupwinr62-300x300.png",
+              "width": 300,
+              "height": 300,
+              "filesize": "134517",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/07/cupwinr62-300x300.png"
+            },
+            "full": {
+              "file": "cupwinr62.png",
+              "width": 1200,
+              "height": 1200,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/07/cupwinr62.png"
+            }
+          },
+          "image_meta": {
+            "aperture": "0",
+            "credit": "",
+            "camera": "",
+            "caption": "",
+            "created_timestamp": "0",
+            "copyright": "",
+            "focal_length": "0",
+            "iso": "0",
+            "shutter_speed": "0",
+            "title": "",
+            "orientation": "0"
+          }
+        },
+        "source_url": "https://avr-gaming.de/wp-content/uploads/2022/07/cupwinr62.png",
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media/1316",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media"
+            }
+          ],
+          "about": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/types/attachment"
+            }
+          ],
+          "author": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/3"
+            }
+          ],
+          "replies": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=1316"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:term": [
+      [
+        {
+          "id": 14,
+          "link": "https://avr-gaming.de/category/avr-news/avr-rainbowsix/",
+          "name": "AVR.RainbowSix",
+          "slug": "avr-rainbowsix",
+          "taxonomy": "category",
+          "_links": {
+            "self": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories/14",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/taxonomies/category"
+              }
+            ],
+            "up": [
+              {
+                "embeddable": true,
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories/8"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/posts?categories=14"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        }
+      ],
+      []
+    ]
+  },
+  "localImage": "/blog/images/post-1315.png"
+}

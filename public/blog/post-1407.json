@@ -1,0 +1,386 @@
+{
+  "id": 1407,
+  "date": "2022-12-27T19:36:01",
+  "date_gmt": "2022-12-27T18:36:01",
+  "guid": {
+    "rendered": "https://avr-gaming.de/?p=1407"
+  },
+  "modified": "2022-12-27T19:36:01",
+  "modified_gmt": "2022-12-27T18:36:01",
+  "slug": "avr-blog-1",
+  "status": "publish",
+  "type": "post",
+  "link": "https://avr-gaming.de/avr-blog-1/",
+  "title": {
+    "rendered": "AVR Blog #1"
+  },
+  "content": {
+    "rendered": "\n<p>Als ich vor etwa 13 Jahren die ersten Schritte im Konsolen-eSport bei Far Cry 2 - einem Nischentitel - in der Consoles Sports League (heute ESL Play) gegangen bin, ließ die Zeit auf Großes hoffen. In der tiefsten 360-Ära, als etwa klassische Shooter im Stil eines Call of Dutys fast schon inflationär den Markt fluteten brachte jeder noch so kleine Titel die Möglichkeit von Custom Lobbys mit unzähligen Anpassungsmöglichkeiten mit - grundsätzlich perfekt für den kompetitiven eSport und doch verschwanden die meisten Titel abseits von Activisions jährlichen CoD-Update, trotz Engagement der vorwiegend ehrenamtlich organisierten Ligaplattformen in völliger Irrelevanz.</p>\n\n\n\n<p>Heute möchte mir Battlefield 2042 das klassische Scoreboard als große Innovation verkaufen, Custom Lobbys suche ich bei den meisten Games vergebens und das Angebot für eSport-Konsoleros beschränkt sich auf eine vergleichsweise überschaubare Zahl an Titeln. Große Namen der Szene wie dzs und NXG sind schon lange verschwunden und mehr oder minder kleinen Teams gewichen, die sich binnen kürzester Zeit auflösen und neu formieren. Der eSport tritt auf Xbox und Playstation dabei nicht nur durch den schwindenen Organisationsgrad der Teams oder den mangelnden Zuwachs an relevanten Games auf der Stelle: 13 Jahre nach meinem persönlichen Debüt wird er nach wie vor überwiegend ehrenamtlich von engagierten Leagueadmins in ihrer Freizeit getragen.</p>\n\n\n\n<p>Dabei waren die wenigen Experimente von eSport-Ambitionen mit Publisher-Support vielversprechend: Battlefield Incursions schenkte uns 2018 gute Ansätze für eine BF-eSport-Umgebung der Zukunft, die PUBG Carnage League erfreute sich 2020 an einem großen Zulauf, der sogar das Anmeldungssystem des Formats an die Belastungsgrenzen brachte. Zwei größere R6-Turniere mit Unterstützung von Microsoft und Ubisoft über ebattle waren, wenn auch sehr kurzfristig angelegt, Lichtblicke im Jahr 2021.</p>\n\n\n\n<p>In den meisten Fällen handelte es sich beim Publisher-gestützen Formaten auf der Konsole um kurzweilige Appetithappen. Die Ambitionen konzentrieren sich markttypisch auf den PC und seit einigen Jahren auf Mobile-Gaming - in Anbetracht großer Zielgruppen, gewachsener Strukturen und wirtschaftlicher Potenziale nachvollziehbar. Größere Formate auf der Konsole schneiden meist nur den Spitzenbereich der Profis an und wirken selten in die Breite: Während ich die hochprämierten Matches der Halo Championship Series (HCS) in aufwendigen Twitch-Streams verfolge suche ich organisierte Teams und Ligaangebote im Amateur- und SemiPro-Bereich vergebens.</p>\n\n\n\n<p>Casual beherrscht die Konsole perfekt, während ehrgeizigere Spieler, engagierte Mitglieder der Community, die ein wenig mehr wollen, zu oft in die Röhre schauen und sich im ausgedünnten Teilnehmerpool der ehrenamtlich angebotenen Turniere bestenfalls wie der große Fisch im kleinen Teich fühlen dürfen. Dabei muss das gar nicht sein: Schon vor 13 Jahren haben Entwickler die perfekten Umgebungen für kompetitiven eSport geschaffen und dabei vergessen, Anreize und Motivationen für Spieler zu schaffen, diese vorhandenen Möglichkeiten auch zu nutzen. Divisionssysteme nach Skillrating auf einer der ehrenamtlich getragenen Ligaplattformen, vielleicht mit symbolischen Medaillen, sind dabei nur ein Ansatz. Auch die Verknüpfung mit Social Media ist entscheidend: eSportler auf der Konsole gehören zu den festen Kernen der Communities und nicht zuletzt zu den schmerzfreisten Fans einer Spielereihe. Dennoch fliegen sie oft unter dem Radar der Spielehersteller. Community-Manager, wie sie etwa zu Zeiten eines Battlefield 3 eigens von EA für das Feedback aus den Reihen der Spieler eingestellt wurden, sind heute Mangelware. Xbox DACH postet auf Instagram derweil im Akkord recht belanglose Werbebeiträge ohne viel Abwechslung.</p>\n\n\n\n<p>Der Konsolen-eSport soll sich nicht mit dem PC messen können - das ist im Moment utopisch. Potenziale liegen dennoch ungenutzt auf der Straße und warten auf kleine Impulse der Publisher. Es mangelt hierbei nicht am Engagement der Community, sondern an der Unterstützung durch die Big Player in der Gamingszene. eSport-Formate müssen finanziell keine astronomischen Ausmaße annehmen. Viel wichtiger ist der offene Zugang zum eSport für die breite Masse - nicht für Profi-Gehälter, sondern einfach für den spielerischen Kern von PvP-Multiplayergames: Den Wettbewerb mit anderen und den Spaß, sich miteinander zu messen.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Als ich vor etwa 13 Jahren die ersten Schritte im Konsolen-eSport bei Far Cry 2 - einem Nischentitel - in der Consoles Sports League (heute ESL Play) gegangen bin, ließ die Zeit auf Großes hoffen. In der tiefsten 360-Ära, als etwa klassische Shooter im Stil eines Call of Dutys fast schon inflationär den Markt fluteten [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 3,
+  "featured_media": 1408,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    8
+  ],
+  "tags": [],
+  "class_list": [
+    "post-1407",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-avr-news"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1407",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/users/3"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=1407"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1407/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 1409,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/posts/1407/revisions/1409"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media/1408"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://avr-gaming.de/wp-json/wp/v2/media?parent=1407"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/categories?post=1407"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://avr-gaming.de/wp-json/wp/v2/tags?post=1407"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  },
+  "_embedded": {
+    "author": [
+      {
+        "id": 3,
+        "name": "AVR-NEWS",
+        "url": "",
+        "description": "",
+        "link": "https://avr-gaming.de/author/avr-news/",
+        "slug": "avr-news",
+        "avatar_urls": {
+          "24": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=24&d=mm&r=g",
+          "48": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=48&d=mm&r=g",
+          "96": "https://secure.gravatar.com/avatar/7be13b7ff82da86f84dc3046872557d962ece8bad012f61d9d3cd66af37e1ed2?s=96&d=mm&r=g"
+        },
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/3",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "id": 1408,
+        "date": "2022-12-27T19:35:48",
+        "slug": "beitrag_standard_erklaert",
+        "type": "attachment",
+        "link": "https://avr-gaming.de/avr-blog-1/beitrag_standard_erklaert/",
+        "title": {
+          "rendered": "Beitrag_standard_erklärt"
+        },
+        "author": 3,
+        "featured_media": 0,
+        "smush": {
+          "stats": {
+            "percent": 66.0052392499536,
+            "bytes": 1084707,
+            "size_before": 1643365,
+            "size_after": 558658,
+            "time": 4.35,
+            "api_version": "1.0",
+            "lossy": true,
+            "keep_exif": 0
+          },
+          "sizes": {
+            "medium": {
+              "percent": 70.25,
+              "bytes": 51941,
+              "size_before": 73942,
+              "size_after": 22001,
+              "time": 0.09
+            },
+            "large": {
+              "percent": 66.68,
+              "bytes": 342880,
+              "size_before": 514188,
+              "size_after": 171308,
+              "time": 1.59
+            },
+            "thumbnail": {
+              "percent": 69.87,
+              "bytes": 18024,
+              "size_before": 25798,
+              "size_after": 7774,
+              "time": 0.03
+            },
+            "medium_large": {
+              "percent": 68.51,
+              "bytes": 219323,
+              "size_before": 320127,
+              "size_after": 100804,
+              "time": 1.08
+            },
+            "acf-gallery": {
+              "percent": 0,
+              "bytes": 0,
+              "size_before": 22001,
+              "size_after": 22001,
+              "time": 0.1
+            },
+            "full": {
+              "percent": 65.84,
+              "bytes": 452539,
+              "size_before": 687309,
+              "size_after": 234770,
+              "time": 1.46
+            }
+          },
+          "webp_flag": "2022/12/Beitrag_standard_erklaert-300x300.png.webp"
+        },
+        "caption": {
+          "rendered": ""
+        },
+        "alt_text": "",
+        "media_type": "image",
+        "mime_type": "image/png",
+        "media_details": {
+          "width": 1200,
+          "height": 1200,
+          "file": "2022/12/Beitrag_standard_erklaert.png",
+          "filesize": "687309",
+          "sizes": {
+            "medium": {
+              "file": "Beitrag_standard_erklaert-300x300.png",
+              "width": 300,
+              "height": 300,
+              "filesize": "73942",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/12/Beitrag_standard_erklaert-300x300.png"
+            },
+            "large": {
+              "file": "Beitrag_standard_erklaert-1024x1024.png",
+              "width": 1024,
+              "height": 1024,
+              "filesize": "514188",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/12/Beitrag_standard_erklaert-1024x1024.png"
+            },
+            "thumbnail": {
+              "file": "Beitrag_standard_erklaert-150x150.png",
+              "width": 150,
+              "height": 150,
+              "filesize": "25798",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/12/Beitrag_standard_erklaert-150x150.png"
+            },
+            "medium_large": {
+              "file": "Beitrag_standard_erklaert-768x768.png",
+              "width": 768,
+              "height": 768,
+              "filesize": "320127",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/12/Beitrag_standard_erklaert-768x768.png"
+            },
+            "acf-gallery": {
+              "file": "Beitrag_standard_erklaert-300x300.png",
+              "width": 300,
+              "height": 300,
+              "filesize": "73942",
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/12/Beitrag_standard_erklaert-300x300.png"
+            },
+            "full": {
+              "file": "Beitrag_standard_erklaert.png",
+              "width": 1200,
+              "height": 1200,
+              "mime_type": "image/png",
+              "source_url": "https://avr-gaming.de/wp-content/uploads/2022/12/Beitrag_standard_erklaert.png"
+            }
+          },
+          "image_meta": {
+            "aperture": "0",
+            "credit": "",
+            "camera": "",
+            "caption": "",
+            "created_timestamp": "0",
+            "copyright": "",
+            "focal_length": "0",
+            "iso": "0",
+            "shutter_speed": "0",
+            "title": "",
+            "orientation": "0"
+          }
+        },
+        "source_url": "https://avr-gaming.de/wp-content/uploads/2022/12/Beitrag_standard_erklaert.png",
+        "_links": {
+          "self": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media/1408",
+              "targetHints": {
+                "allow": [
+                  "GET"
+                ]
+              }
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/media"
+            }
+          ],
+          "about": [
+            {
+              "href": "https://avr-gaming.de/wp-json/wp/v2/types/attachment"
+            }
+          ],
+          "author": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/users/3"
+            }
+          ],
+          "replies": [
+            {
+              "embeddable": true,
+              "href": "https://avr-gaming.de/wp-json/wp/v2/comments?post=1408"
+            }
+          ]
+        }
+      }
+    ],
+    "wp:term": [
+      [
+        {
+          "id": 8,
+          "link": "https://avr-gaming.de/category/avr-news/",
+          "name": "AVR-NEWS",
+          "slug": "avr-news",
+          "taxonomy": "category",
+          "_links": {
+            "self": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories/8",
+                "targetHints": {
+                  "allow": [
+                    "GET"
+                  ]
+                }
+              }
+            ],
+            "collection": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/categories"
+              }
+            ],
+            "about": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/taxonomies/category"
+              }
+            ],
+            "wp:post_type": [
+              {
+                "href": "https://avr-gaming.de/wp-json/wp/v2/posts?categories=8"
+              }
+            ],
+            "curies": [
+              {
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+              }
+            ]
+          }
+        }
+      ],
+      []
+    ]
+  },
+  "localImage": "/blog/images/post-1407.png"
+}
