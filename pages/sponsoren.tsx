@@ -25,32 +25,18 @@ const sponsors = [
     url: "https://berare.media/",
   },
   {
-    logo: "/sponsors/gain.png",
-    name: "GAIN",
-    description:
-      "GAIN ist ein unabhängiges Spielemagazin, das auf kritischen Journalismus ohne Publisher-Werbung setzt – ehrlich, sauber und für die Gaming-Community.",
-    url: "https://www.gain-magazin.de/",
-  },
-  {
     logo: "/sponsors/mojokaii.png",
     name: "MOJOKAii",
     description:
       "MOJOKAii steht für hochwertige Gaming-Booster mit starken Geschmacksrichtungen, fairen Preisen und Fokus auf Performance & Geschmack.",
     url: "https://www.mojokaii.com/",
   },
-  {
-    logo: "/sponsors/heiper.png",
-    name: "Heiper LAN House",
-    description:
-      "Seit 2009 ist das Heiper LAN House ein Hotspot für eSport-Events, LAN-Partys und gemeinsames Zocken in Solingen – mit Platz für bis zu 16 Personen.",
-    url: "https://heiperlanhouse.de/", // Falls du eine andere Domain nutzt, anpassen
-  },
     {
     logo: "/sponsors/lanBunker.webp",
     name: "LAN Bunker",
     description:
       "Seit 2009 ist der LAN Bunker in Homburg ein Rückzugsort für echte Gamer – mit Platz für bis zu 16 Personen bietet er die perfekte Kulisse für eSport-Events, LAN-Partys und nächtelanges Zocken.",
-    url: "https://lan-bunker.eu/", // Falls du eine andere Domain nutzt, anpassen
+    url: "https://lan-bunker.eu/", 
   },
 ];
 
