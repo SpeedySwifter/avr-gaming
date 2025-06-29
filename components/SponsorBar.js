@@ -35,6 +35,7 @@ const sponsors = [
     description:
       "Seit 2009 ist der LAN Bunker in Homburg ein Rückzugsort für echte Gamer – mit Platz für bis zu 16 Personen bietet er die perfekte Kulisse für eSport-Events, LAN-Partys und nächtelanges Zocken.",
     url: "https://lan-bunker.eu/", 
+   }
 ];
 
 export default function SponsorBar() {
