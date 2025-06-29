@@ -1,7 +1,19 @@
 export default function HeroSection() {
   return (
-    <section className="relative w-full min-h-screen flex flex-col justify-center items-center text-center bg-black text-white px-6">
-      <div className="max-w-3xl">
+    <section className="relative w-full min-h-screen flex flex-col justify-center items-center text-center bg-black text-white px-6 overflow-hidden">
+      {/* Hintergrundvideo */}
+      <video
+        className="absolute inset-0 w-full h-full object-cover z-0"
+        src="/avr-hero.webm"
+        autoPlay
+        loop
+        muted
+        playsInline
+      />
+      {/* Overlay für bessere Lesbarkeit */}
+      <div className="absolute inset-0 bg-black/70 z-10" />
+      {/* Content */}
+      <div className="relative z-20 max-w-3xl">
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold leading-tight">
           WE DON’T JUST PLAY THE GAME – <span className="text-avrblue">WE DEFINE IT.</span>
         </h1>
