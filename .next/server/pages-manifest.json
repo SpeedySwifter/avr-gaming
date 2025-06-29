@@ -1,9 +1,1 @@
-{
-  "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/teams": "pages/teams.js",
-  "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js",
-  "/api/teams": "pages/api/teams.js"
-}
+{"/_app":"pages/_app.js","/admin/AdminSidebar":"pages/admin/AdminSidebar.html","/about":"pages/about.html","/admin/BlogPage":"pages/admin/BlogPage.html","/admin/AdminLayout":"pages/admin/AdminLayout.html","/admin/PlayersPage":"pages/admin/PlayersPage.html","/admin/AwardsPage":"pages/admin/AwardsPage.html","/admin/TeamsPage":"pages/admin/TeamsPage.html","/admin/awards":"pages/admin/awards.html","/admin/blog":"pages/admin/blog.html","/admin/blog/new":"pages/admin/blog/new.html","/admin/players":"pages/admin/players.html","/admin":"pages/admin.html","/api/auth/[...nextauth]":"pages/api/auth/[...nextauth].js","/api/awards":"pages/api/awards.js","/api/blog":"pages/api/blog.js","/admin/dashboard":"pages/admin/dashboard.html","/api/players":"pages/api/players.js","/admin/blog/edit/[id]":"pages/admin/blog/edit/[id].html","/admin/teams/[slug]":"pages/admin/teams/[slug].html","/api/teams/[slug]":"pages/api/teams/[slug].js","/admin/teams":"pages/admin/teams.html","/api/teams/images":"pages/api/teams/images.js","/api/teams":"pages/api/teams.js","/awards":"pages/awards.html","/debug/session":"pages/debug/session.html","/login":"pages/login.js","/news":"pages/news.html","/teams":"pages/teams.html","/sponsoren":"pages/sponsoren.html","/support":"pages/support.html","/":"pages/index.html","/_error":"pages/_error.js","/blog":"pages/blog.js","/api/teams/upload":"pages/api/teams/upload.js","/blog/[slug]":"pages/blog/[slug].js","/blog/pages/page/[page]":"pages/blog/pages/page/[page].js","/api/upload":"pages/api/upload.js","/datenschutz":"pages/datenschutz.html","/impressum":"pages/impressum.html","/teams/[slug]":"pages/teams/[slug].js","/news/page/[page]":"pages/news/page/[page].js","/_document":"pages/_document.js","/404":"pages/404.html"}
