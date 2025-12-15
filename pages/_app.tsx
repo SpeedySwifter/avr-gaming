@@ -2,6 +2,7 @@ import { SessionProvider } from "next-auth/react";
 import type { AppProps } from "next/app";
 import Head from "next/head";
 import { DefaultSeo } from "next-seo";
+import { Analytics } from "@vercel/analytics/next";
 import SEO from "../next-seo.config";
 
 // Tailwind & Swiper Styles
@@ -19,6 +20,7 @@ export default function MyApp({ Component, pageProps: { session, ...pageProps } 
       </Head>
       <DefaultSeo {...SEO} />
       <Component {...pageProps} />
+      <Analytics />
     </SessionProvider>
   );
 }
