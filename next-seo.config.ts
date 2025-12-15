@@ -13,11 +13,11 @@ const SEO = {
     description: "Neuigkeiten, Events und Teaminfos rund um AVR eSport.",
     images: [
       {
-        url: "https://avr-gaming.de/og-image.jpg", // <–– falls du ein Open Graph Bild hast
+        url: "https://avr-gaming.de/img/teams-hero.webp",
         width: 1200,
         height: 630,
         alt: "AVR Gaming Logo",
-        type: "image/jpeg",
+        type: "image/webp",
       },
     ],
   },

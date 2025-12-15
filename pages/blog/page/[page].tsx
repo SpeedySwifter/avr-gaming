@@ -21,28 +21,14 @@ interface Props {
   totalPages: number;
 }
 
-export default function PaginatedNewsPage({ posts, currentPage, totalPages }: Props) {
+export default function PaginatedBlogPage({ posts, currentPage, totalPages }: Props) {
   return (
     <>
       <HeaderDezent />
 
       <main className="min-h-screen bg-white text-black px-4 py-12">
         <div className="max-w-5xl mx-auto">
-          <h1 className="text-4xl font-bold mb-10 text-center">📣 Neuigkeiten</h1>
-
-          {/* Filter + Suche */}
-          <div className="flex flex-col md:flex-row gap-4 mb-8 justify-between">
-            <input
-              type="text"
-              placeholder="🔍 Blogposts durchsuchen..."
-              className="w-full md:w-1/2 border border-gray-300 rounded-xl p-3"
-            />
-            <select className="w-full md:w-1/4 border border-gray-300 rounded-xl p-3">
-              <option value="">Alle Kategorien</option>
-              <option value="update">Updates</option>
-              <option value="event">Events</option>
-            </select>
-          </div>
+          <h1 className="text-4xl font-bold mb-10 text-center">📣 Blog</h1>
 
           <div className="grid gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
             {posts.map((post) => (
@@ -57,7 +43,6 @@ export default function PaginatedNewsPage({ posts, currentPage, totalPages }: Pr
             ))}
           </div>
 
-          {/* Pagination */}
           <div className="flex justify-center mt-10 gap-4">
             {Array.from({ length: totalPages }).map((_, i) => (
               <a
@@ -98,7 +83,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 };
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
-  const page = parseInt(params?.page as string || "1", 10);
+  const page = parseInt((params?.page as string) || "1", 10);
 
   const filePath = path.join(process.cwd(), "public/data/blog.json");
   const jsonData = fs.readFileSync(filePath, "utf-8");

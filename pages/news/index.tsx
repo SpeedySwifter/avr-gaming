@@ -1,12 +1,14 @@
-import { useEffect } from "react";
-import { useRouter } from "next/router";
+import { GetServerSideProps } from "next";
 
-export default function NewsIndexRedirect() {
-  const router = useRouter();
+export const getServerSideProps: GetServerSideProps = async () => {
+  return {
+    redirect: {
+      destination: "/news/page/1",
+      permanent: false,
+    },
+  };
+};
 
-  useEffect(() => {
-    router.replace("/news/page/1");
-  }, [router]);
-
+export default function RedirectToFirstPage() {
   return null;
 }
